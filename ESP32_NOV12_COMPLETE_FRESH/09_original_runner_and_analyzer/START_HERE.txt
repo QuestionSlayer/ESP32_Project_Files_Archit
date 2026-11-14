@@ -1,0 +1,18 @@
+ESP32 COMPLETE BENCHMARK PACKAGE
+================================
+1. Arduino IDE: Open esp32_benchmark_logged/esp32_benchmark_logged.ino and upload to your ESP32.
+2. With the ESP32 unpowered, connect GPIO23 (SPI MOSI) to GPIO27 (SPI MISO) using ONE jumper for loopback integrity testing.
+3. Close Arduino Serial Monitor before running Python.
+4. In this directory run:
+      python -m pip install -r requirements.txt
+      python esp32_one_click_preflight.py
+   Optional explicit serial port:
+      python esp32_one_click_preflight.py --port COM5
+5. The preflight creates a timestamped results folder and ZIP. Save and upload that results ZIP for analysis.
+6. For separate repeatable experiment runs:
+      python run_esp32_benchmarks.py --port COM5 --repeats 20 --duration 0.10
+7. To analyze collected results:
+      python analyze_esp32_benchmarks.py PATH_TO_RESULT_FOLDER
+See ESP32_BENCH_README.md for fuller instructions and analyzer CSV formats.
+
+Hardware caveat: Arduino firmware was not compiled or verified on an actual ESP32 in this environment. The Python files passed syntax checks; check the firmware and loopback on your board before depending on data.

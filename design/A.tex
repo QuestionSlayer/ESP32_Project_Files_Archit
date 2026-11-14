@@ -1,0 +1,54 @@
+\documentclass[12pt,a4paper,twoside,openany]{report}
+\usepackage[a4paper,margin=1in,headheight=15pt,headsep=18pt,footskip=30pt]{geometry}
+\usepackage[T1]{fontenc}\usepackage[utf8]{inputenc}
+\usepackage{mathpazo}                         % Palatino text + matched Pazo math
+\usepackage[scaled=0.86]{helvet}              % Helvetica-metric sans for headings and figure labels
+\renewcommand{\ttdefault}{lmtt}
+\linespread{1.0}
+\usepackage[protrusion=true,expansion=true,tracking=true]{microtype}
+\usepackage{amsmath,amssymb}
+\usepackage{xcolor,graphicx,booktabs,array}
+\usepackage{siunitx}
+\usepackage{tikz,pgfplots}\pgfplotsset{compat=1.18}
+\usepackage{listings,caption,titlesec,fancyhdr}
+\usepackage[hidelinks]{hyperref}\usepackage[nameinlink,capitalise]{cleveref}
+% ---------- palette
+\definecolor{ink}{HTML}{1F2328}\definecolor{midnight}{HTML}{16324F}\definecolor{copper}{HTML}{A85B2A}
+\definecolor{rule}{HTML}{B9BEC5}\definecolor{faint}{HTML}{E9EBEE}\definecolor{slate}{HTML}{5B6470}
+\color{ink}
+\sisetup{group-minimum-digits=5, group-separator={\,}}
+% ---------- headings
+\newcommand{\sfhead}{\sffamily\bfseries\color{midnight}}
+\titleformat{\chapter}[hang]{\normalfont\sffamily}
+  {\fontsize{48}{48}\selectfont\color{rule}\thechapter}{18pt}
+  {\raggedright\bfseries\LARGE\color{midnight}}[\vspace{7pt}{\color{rule}\titlerule[0.6pt]}]
+\titlespacing*{\chapter}{0pt}{-18pt}{22pt}
+\titleformat{\section}{\sfhead\large}{\textcolor{copper}{\thesection}}{0.8em}{}
+\titlespacing*{\section}{0pt}{16pt plus 3pt minus 2pt}{7pt}
+\titleformat{\subsection}{\sffamily\bfseries\normalsize\color{ink}}{\thesubsection}{0.8em}{}
+% ---------- running heads
+\pagestyle{fancy}\fancyhf{}
+\renewcommand{\headrulewidth}{0.4pt}\renewcommand{\headrule}{{\color{rule}\hrule width\headwidth height\headrulewidth}}
+\fancyhead[LE]{\sffamily\footnotesize\textbf{\thepage}\quad\textcolor{slate}{\textls[60]{ESP32 REAL-TIME MEASUREMENT}}}
+\fancyhead[RO]{\sffamily\footnotesize\textcolor{slate}{\textls[60]{\MakeUppercase{\leftmark}}}\quad\textbf{\thepage}}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\fancypagestyle{plain}{\fancyhf{}\renewcommand{\headrulewidth}{0pt}\fancyfoot[C]{\sffamily\footnotesize\thepage}}
+% ---------- captions and evidence tags
+\captionsetup{font={small}, labelfont={sf,bf,color=midnight}, labelsep=quad, justification=justified, singlelinecheck=false, skip=7pt}
+\newcommand{\evtag}[1]{{\sffamily\scriptsize\textls[80]{\textcolor{slate}{$\blacksquare$\,#1}}}\enspace}
+\newcommand{\evM}{\evtag{MEASURED}}\newcommand{\evD}{\evtag{DERIVED}}\newcommand{\evH}{\evtag{HYPOTHESIS}}
+% ---------- figure vocabulary
+\pgfplotsset{rp axis/.style={axis lines=left, axis line style={line width=0.4pt, ink}, tick style={line width=0.4pt, ink}, tick align=outside,
+  major tick length=2.5pt, tick label style={font=\sffamily\footnotesize}, label style={font=\sffamily\footnotesize},
+  legend style={font=\sffamily\footnotesize, draw=none, fill=none, cells={anchor=west}}, grid=major, grid style={line width=0.25pt, faint}, clip=false},
+  rp base/.style={midnight, line width=0.9pt}, rp accent/.style={copper, line width=0.9pt}}
+\tikzset{rp ref/.style={slate, line width=0.4pt, densely dashed}, rp note/.style={font=\sffamily\scriptsize, text=slate}}
+% ---------- code
+\newcommand{\lsttitle}[2]{\sffamily\scriptsize\textcolor{slate}{\textls[40]{#1\quad lines #2}}}
+\lstdefinestyle{fw}{language=C++, basicstyle=\ttfamily\fontseries{lc}\selectfont\small\color{ink}, keywordstyle=\color{midnight}\bfseries, commentstyle=\color{slate}\itshape,
+  numbers=left, numberstyle=\sffamily\tiny\color{slate}, numbersep=8pt, xleftmargin=2.2em, frame=leftline, framerule=1.2pt, rulecolor=\color{rule}, framesep=6pt,
+  showstringspaces=false, columns=fullflexible, keepspaces=true, breaklines=true, aboveskip=8pt, belowskip=6pt}
+\setlength{\parskip}{0pt}\setlength{\parindent}{1.4em}
+\begin{document}\setcounter{chapter}{3}\setcounter{page}{17}
+\input{common_body}
+\end{document}

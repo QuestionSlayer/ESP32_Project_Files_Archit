@@ -1,0 +1,56 @@
+\chapter{Interrupt Timing and Scheduler Response}
+\section{Stress Response-Latency Distribution}
+An interrupt that is taken on time has still done nothing useful. The work begins when the
+dispatcher task runs, and the interval between the two is where the scheduler makes itself felt.
+For event $i$ the firmware records the cycle counter at handler entry and again when the
+dispatcher removes that event from the ring, so that
+\begin{equation}
+  L_i \;=\; \frac{c^{\mathrm{disp}}_i - c^{\mathrm{isr}}_i}{f_{\mathrm{cpu}}},
+  \qquad f_{\mathrm{cpu}} = \SI{160}{\mega\hertz}.
+\end{equation}
+With the worker parked, $L_i$ sits at \SI{13.2}{\micro\second} and barely moves. With an
+equal-priority worker on the same core, the mean rises to \SI{53.7}{\micro\second} and more than
+half the events wait longer than the period that generated them (\cref{fig:ecdf}).
+
+\begin{figure}[htbp]
+\centering
+\begin{tikzpicture}
+\begin{axis}[rp axis, width=0.78\linewidth, height=5.4cm,
+  xlabel={Dispatch latency $L$ (\si{\micro\second})}, ylabel={Fraction of events $\le L$},
+  xmin=0, xmax=125, ymin=0, ymax=1.02, legend pos=south east]
+\addplot[rp base] table[x=x,y=p]{../build/data/lat_ecdf_baseline.dat}; \addlegendentry{baseline}
+\addplot[rp accent] table[x=x,y=p]{../build/data/lat_ecdf_stress.dat}; \addlegendentry{worker at priority 22}
+\draw[rp ref] (axis cs:50,0) -- (axis cs:50,1.02) node[pos=0.93, anchor=west, rp note]{\SI{50}{\micro\second} period};
+\end{axis}
+\end{tikzpicture}
+\caption{\evM\ Empirical distribution of dispatch latency, original firmware, ten runs per
+condition (\num{13417} and \num{13715} events). The latency is handler entry to dispatcher pop, not a
+context-switch time; crossing the \SI{50}{\micro\second} line is a period exceedance, not a missed deadline.}
+\label{fig:ecdf}
+\end{figure}
+
+\begin{table}[htbp]
+\centering
+\caption{\evM\ Dispatch latency by condition. Run-level range in brackets; event-level SD is descriptive.}
+\label{tab:lat}
+\begin{tabular}{l S[table-format=2.3] S[table-format=2.3] S[table-format=3.3] S[table-format=2.1] l}
+\toprule
+Condition & {Mean} & {SD} & {P99} & {$>\SI{50}{\micro\second}$} & Run means \\
+          & {(\si{\micro\second})} & {(\si{\micro\second})} & {(\si{\micro\second})} & {(\si{\percent})} & (\si{\micro\second}) \\
+\midrule
+Baseline            & 13.224 & 1.268 & 21.094 & 0.0  & [13.22,\,13.24] \\
+Worker, priority 22 & 53.664 & 33.237 & 113.169 & 53.3 & [53.15,\,54.25] \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The mechanism is in six lines of the worker: at priority 22 it yields only after a full chunk of
+work, and until it does the dispatcher is ready but not running.
+\begin{lstlisting}[style=fw, firstnumber=856, title={\lsttitle{esp32\_benchmark\_logged.ino}{856--861}}]
+        while (bench_stress_enabled) {
+            bench_run_stress_chunk(state);
+            if (bench_stress_priority == 22U) {
+                taskYIELD();
+            } else if (bench_stress_priority > 22U) {
+                const uint32_t elapsed = bench_read_ccount() - burst_start;
+\end{lstlisting}

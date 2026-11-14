@@ -1,0 +1,6 @@
+Mode: Interrupt (real UART1 TXFIFO-empty IRQ)
+(burst=16 B/IRQ, FIFO threshold=112, primed 128 B)
+[INTERRUPT] done, wall 5122.66 us, IRQs 48
+  FreeRTOS wait      : notification wait elapsed 5125.22 us (NOT CPU busy time)
+  CPU ISR workload   : 70.91 us; ISR/wall 1.38% (task blocked between IRQs)
+BENCH_ACK

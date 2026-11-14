@@ -1,0 +1,2664 @@
+{
+ "summary": {
+  "files": 379,
+  "listed": 379,
+  "matching": 379,
+  "not_listed": [],
+  "mismatched": []
+ },
+ "files": [
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/all_timer_samples.csv",
+   "bytes": 6954862,
+   "sha256": "de663f081c3daf0626b6c1d606b66963826e0c3be31f19e2f1c1801258a69a7f",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache100_001_meta.json",
+   "bytes": 145,
+   "sha256": "8e92e4b72a2df8dedd90de38fe3f2544344973af40aedc9cb07eb60f39b4bcda",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache100_001_samples.csv",
+   "bytes": 111837,
+   "sha256": "695bbbcbb3376adf5b5dd8da7424cfbd0ebe481645c3516919605fed675599de",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache100_001_serial.txt",
+   "bytes": 37832,
+   "sha256": "219cb71f1484466006939b1b28392255c5517f82288b4fc14d6fca07377eace1",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache100_002_meta.json",
+   "bytes": 145,
+   "sha256": "8e92e4b72a2df8dedd90de38fe3f2544344973af40aedc9cb07eb60f39b4bcda",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache100_002_samples.csv",
+   "bytes": 111832,
+   "sha256": "0b31107f440e6523328f8f4da139bfd0c832c0f3de5b12d13bd78ada65719199",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache100_002_serial.txt",
+   "bytes": 37847,
+   "sha256": "3c14ed81a27d838e0f2d16a74648c00414b4b94952c76f7fe2f9962adf4de78e",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache100_003_meta.json",
+   "bytes": 145,
+   "sha256": "8e92e4b72a2df8dedd90de38fe3f2544344973af40aedc9cb07eb60f39b4bcda",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache100_003_samples.csv",
+   "bytes": 111903,
+   "sha256": "04c70a2520dfb6127b821827bb270df481de6800eed78b5a1f468d8573753cc2",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache100_003_serial.txt",
+   "bytes": 37823,
+   "sha256": "026a9ee3154bf5421e3de3bbac98a2b3a48395a9256c3211073cc0ae0d1c9e2d",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache100_004_meta.json",
+   "bytes": 145,
+   "sha256": "8e92e4b72a2df8dedd90de38fe3f2544344973af40aedc9cb07eb60f39b4bcda",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache100_004_samples.csv",
+   "bytes": 111899,
+   "sha256": "28512d07a657b399cb8f144716399574fa70f068ea208f326aaeb4eb18d12ef4",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache100_004_serial.txt",
+   "bytes": 37847,
+   "sha256": "f133045045716d62c2e891a0051a2a12ea852b43c81f06e5ff170d45ddfba5ad",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache100_005_meta.json",
+   "bytes": 145,
+   "sha256": "688d53b329d1769eb1e1ada70c8823cbf226f020af850bd5c85502bf8d8cb42a",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache100_005_samples.csv",
+   "bytes": 129436,
+   "sha256": "4e965ee5462805fc4b3de910f89a400d9330a91aba9e02456e857ca298b68109",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache100_005_serial.txt",
+   "bytes": 42838,
+   "sha256": "27ad2014667284eadc478729d7a2a4fe7508ff16e3ac11b1a6f58a093623a584",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache100_006_meta.json",
+   "bytes": 145,
+   "sha256": "8e92e4b72a2df8dedd90de38fe3f2544344973af40aedc9cb07eb60f39b4bcda",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache100_006_samples.csv",
+   "bytes": 110818,
+   "sha256": "5bd050c36fd2988b57da452c3426ed0b17f922555be50872522b6c174f6a40bd",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache100_006_serial.txt",
+   "bytes": 36642,
+   "sha256": "9f2500c6d754d9f2d5cf15113ceed927630938f82198e509f63f8428dfd27a9c",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache100_007_meta.json",
+   "bytes": 145,
+   "sha256": "8e92e4b72a2df8dedd90de38fe3f2544344973af40aedc9cb07eb60f39b4bcda",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache100_007_samples.csv",
+   "bytes": 111959,
+   "sha256": "9f3188f641272fef58b026ab46992c874145a4e51180537cb9c4b19057188a9c",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache100_007_serial.txt",
+   "bytes": 37820,
+   "sha256": "8cade7cce98d9801a6076c30d67e3a5e5d51390ea9db08cd188367174ccad6db",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache100_008_meta.json",
+   "bytes": 145,
+   "sha256": "8e92e4b72a2df8dedd90de38fe3f2544344973af40aedc9cb07eb60f39b4bcda",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache100_008_samples.csv",
+   "bytes": 111873,
+   "sha256": "e62932a533c09644775ac8eb0eb2fdab59019b1c761b97de6f6add501f6ee56e",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache100_008_serial.txt",
+   "bytes": 37847,
+   "sha256": "00ec7580e6e8d444bbaeb7e01be9057c4ab11975c27473db5c22ad7f559965bf",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache100_009_meta.json",
+   "bytes": 145,
+   "sha256": "8e92e4b72a2df8dedd90de38fe3f2544344973af40aedc9cb07eb60f39b4bcda",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache100_009_samples.csv",
+   "bytes": 111900,
+   "sha256": "da27248f4c535f49818615597c1f4cc72bcb2576a1597d245a7afe707a843e11",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache100_009_serial.txt",
+   "bytes": 37826,
+   "sha256": "0ae87eac6f284bc04f434a1339bd8dc12af3f2664857e1264620cb88983a464c",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache100_010_meta.json",
+   "bytes": 145,
+   "sha256": "688d53b329d1769eb1e1ada70c8823cbf226f020af850bd5c85502bf8d8cb42a",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache100_010_samples.csv",
+   "bytes": 132041,
+   "sha256": "718ac2229bc1f048e7477e58dcfc98ea99bf5207482a41644f0af71f184aa563",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache100_010_serial.txt",
+   "bytes": 44258,
+   "sha256": "a888099a2f12dc99b7d9d15462ec10623833c3be5e24ad03d68cf25c412cb931",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache12_001_meta.json",
+   "bytes": 145,
+   "sha256": "3f988e7f7f1bb8bb10d31aa8855c85f5be09814ed254eb216e1fd3cca1374bbd",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache12_001_samples.csv",
+   "bytes": 93603,
+   "sha256": "d2d3e47ed415b0b895334a63abfd09eae83d9eb8438a787c02237fbddeb9c350",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache12_001_serial.txt",
+   "bytes": 35416,
+   "sha256": "6a424762e79a2cc38b6d3655d8385cb06000fd763efcf23b2e64d88de73872f1",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache12_002_meta.json",
+   "bytes": 145,
+   "sha256": "3f988e7f7f1bb8bb10d31aa8855c85f5be09814ed254eb216e1fd3cca1374bbd",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache12_002_samples.csv",
+   "bytes": 94808,
+   "sha256": "6609daf8e62c5533c6128328990c98035dacbeeedbcb3993f09a88542f69ba00",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache12_002_serial.txt",
+   "bytes": 36619,
+   "sha256": "05ad7a273513d09c3155dd652bbe4f9a613100f088163cd8219fff938e232ab1",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache12_003_meta.json",
+   "bytes": 145,
+   "sha256": "3f988e7f7f1bb8bb10d31aa8855c85f5be09814ed254eb216e1fd3cca1374bbd",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache12_003_samples.csv",
+   "bytes": 94514,
+   "sha256": "c5344492be088bc2f49934bcaeb2d4bd9e5682d902c224f40546163130d754e8",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache12_003_serial.txt",
+   "bytes": 36619,
+   "sha256": "46a27c0dbaf094d8901a2cad1b7f159c22b88814a1dc8bba71876470a58b32ad",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache12_004_meta.json",
+   "bytes": 145,
+   "sha256": "3f988e7f7f1bb8bb10d31aa8855c85f5be09814ed254eb216e1fd3cca1374bbd",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache12_004_samples.csv",
+   "bytes": 95033,
+   "sha256": "67caa3e245d65fa168ee8a8db620837f3dd29dc77d2532576dda1c2f3f779f7f",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache12_004_serial.txt",
+   "bytes": 36618,
+   "sha256": "d291c5822ae34a2ef0199aca4f98708b2cbb5be46b71b130bf2b5fbfa33384c3",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache12_005_meta.json",
+   "bytes": 145,
+   "sha256": "3f988e7f7f1bb8bb10d31aa8855c85f5be09814ed254eb216e1fd3cca1374bbd",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache12_005_samples.csv",
+   "bytes": 94658,
+   "sha256": "8074e3b34e96df742d9ea84cb87fd911c4531ea1ecaef2309ddfa66735582dd1",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache12_005_serial.txt",
+   "bytes": 36620,
+   "sha256": "ea5294ee52460ca2668810ee454abfba77d036ec24ae4b61667bab7fcd2e959f",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache12_006_meta.json",
+   "bytes": 145,
+   "sha256": "3f988e7f7f1bb8bb10d31aa8855c85f5be09814ed254eb216e1fd3cca1374bbd",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache12_006_samples.csv",
+   "bytes": 94726,
+   "sha256": "791c9f9992e95a9d75b260ebac837c8ebf256c0cb580fd6a7273591dbc4a1b0e",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache12_006_serial.txt",
+   "bytes": 36617,
+   "sha256": "4b6df0aff7351b01221bdb6f81bcb528fc05539913bf997a406879324f6f30be",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache12_007_meta.json",
+   "bytes": 145,
+   "sha256": "3f988e7f7f1bb8bb10d31aa8855c85f5be09814ed254eb216e1fd3cca1374bbd",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache12_007_samples.csv",
+   "bytes": 94588,
+   "sha256": "aab951798a1bdaef930e40e74d6b04c24b322118d46ab5c6612e0b582145afbf",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache12_007_serial.txt",
+   "bytes": 36620,
+   "sha256": "65f2156002598e035adec9ac0e0873248b90e0d5863b394c3beefc3d24556cd5",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache12_008_meta.json",
+   "bytes": 145,
+   "sha256": "3f988e7f7f1bb8bb10d31aa8855c85f5be09814ed254eb216e1fd3cca1374bbd",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache12_008_samples.csv",
+   "bytes": 94644,
+   "sha256": "edbb227efa382dae671a9b5d9aaa9ac008d39d95803f8133f42d18620288a2ba",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache12_008_serial.txt",
+   "bytes": 36617,
+   "sha256": "23eea09a53921b09a3ceb8de481470c271f5ba11c4a1b3f93b29072b3c21b126",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache12_009_meta.json",
+   "bytes": 145,
+   "sha256": "3f988e7f7f1bb8bb10d31aa8855c85f5be09814ed254eb216e1fd3cca1374bbd",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache12_009_samples.csv",
+   "bytes": 93414,
+   "sha256": "9478635e52f3bba0bb3d30b5c20d17bf5673abb68e54e8fe5f64ae3c6f3a9e3b",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache12_009_serial.txt",
+   "bytes": 35417,
+   "sha256": "61193ae11adf6f868531ec9b33fcb40e589fedb6a5d7826cc6bef299e45f8e08",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache12_010_meta.json",
+   "bytes": 145,
+   "sha256": "3f988e7f7f1bb8bb10d31aa8855c85f5be09814ed254eb216e1fd3cca1374bbd",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache12_010_samples.csv",
+   "bytes": 94696,
+   "sha256": "8d72e2b82e2f50278e32b2ded3ab6ec5092087f52c03e2521180cde66b3f61a7",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache12_010_serial.txt",
+   "bytes": 35415,
+   "sha256": "cd902e91fad39576ad4f7ebd25e5437df0545d3b1dc11f7c8802004433f78beb",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache50_001_meta.json",
+   "bytes": 145,
+   "sha256": "bb7f9509d699d160453cb59d861e59985a57fcecec6d0434835b69f6eb6cd615",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache50_001_samples.csv",
+   "bytes": 108909,
+   "sha256": "c06abb934afc1ab3f38881ce021139cecd6d7d4da2d3b04418e4479c2aa8dfdc",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache50_001_serial.txt",
+   "bytes": 38175,
+   "sha256": "33bdffef5d7498b9186d4eb771e8636b87d114d8cbd9c4df004ec97ee794e34a",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache50_002_meta.json",
+   "bytes": 145,
+   "sha256": "475a17bb43af0568f822777bdebc3357db09de978af1501cfe6b022772d697db",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache50_002_samples.csv",
+   "bytes": 111441,
+   "sha256": "a139f6f6147ea8d04b058bce5049097f911ae075abec5e17f0a11dcaa392ed07",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache50_002_serial.txt",
+   "bytes": 38202,
+   "sha256": "b6768b9aa140ef8c710b6ffdc87ca1fa4415e46223c7dd9a481460742145d3ec",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache50_003_meta.json",
+   "bytes": 145,
+   "sha256": "475a17bb43af0568f822777bdebc3357db09de978af1501cfe6b022772d697db",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache50_003_samples.csv",
+   "bytes": 110859,
+   "sha256": "f742028d96725343893fb8a41f493404ae2e0f7e4e2e0bf47a46bf6bcded22fe",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache50_003_serial.txt",
+   "bytes": 38201,
+   "sha256": "bb60c4561511574db384d3feaac577cf9e3135ff40427f46fb7290774e5cf682",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache50_004_meta.json",
+   "bytes": 145,
+   "sha256": "475a17bb43af0568f822777bdebc3357db09de978af1501cfe6b022772d697db",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache50_004_samples.csv",
+   "bytes": 111693,
+   "sha256": "8f62d3d391baf3a83b29c99b1cf504a9cf2a89a1305e7206f811a2a3e445a6c2",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache50_004_serial.txt",
+   "bytes": 38201,
+   "sha256": "69bff96ff4883a883b2504a05c3f8fea7764b1f3522daa3d61c7ccee763e2b23",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache50_005_meta.json",
+   "bytes": 145,
+   "sha256": "475a17bb43af0568f822777bdebc3357db09de978af1501cfe6b022772d697db",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache50_005_samples.csv",
+   "bytes": 111067,
+   "sha256": "bda8b3951265f097bb6df369082d8f5fbd4684c8653589ddab457696e0a83daa",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache50_005_serial.txt",
+   "bytes": 38209,
+   "sha256": "7deba98dca0ed1122995897eefa7bc8a4bf83bd8a628dc35926592ccd5731562",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache50_006_meta.json",
+   "bytes": 145,
+   "sha256": "bb7f9509d699d160453cb59d861e59985a57fcecec6d0434835b69f6eb6cd615",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache50_006_samples.csv",
+   "bytes": 108920,
+   "sha256": "bf65758b77f022055e9280bdccb39c8aea679caefafaec2f29476c27380d6129",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache50_006_serial.txt",
+   "bytes": 38165,
+   "sha256": "34f0c4db2b4c12013a0bd117f65794a039ada17f7bd5e87de07406c12719fa53",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache50_007_meta.json",
+   "bytes": 145,
+   "sha256": "475a17bb43af0568f822777bdebc3357db09de978af1501cfe6b022772d697db",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache50_007_samples.csv",
+   "bytes": 109734,
+   "sha256": "b89608f551488619a178405b387efe8c539f6c3be0ec479ba3c59bfbc219b598",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache50_007_serial.txt",
+   "bytes": 36996,
+   "sha256": "9d46e0c988e53a2d72a6a507910181a8ca633b311723c0d93ff77d5f180e456e",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache50_008_meta.json",
+   "bytes": 145,
+   "sha256": "475a17bb43af0568f822777bdebc3357db09de978af1501cfe6b022772d697db",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache50_008_samples.csv",
+   "bytes": 110577,
+   "sha256": "171180f565ec5610ae9f79ce580b3f322eed479805d271bb069e311a9cdc0f83",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache50_008_serial.txt",
+   "bytes": 37007,
+   "sha256": "1dc6ca1b76176c349878609b81c943bade3f7f3cb344e448d1036edec2e6d9b5",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache50_009_meta.json",
+   "bytes": 145,
+   "sha256": "475a17bb43af0568f822777bdebc3357db09de978af1501cfe6b022772d697db",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache50_009_samples.csv",
+   "bytes": 111021,
+   "sha256": "267bd19e3483c96cf46bacc9077e5eaa3b4102d886cf69e53432e7ea9f201810",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache50_009_serial.txt",
+   "bytes": 38202,
+   "sha256": "9e29f2fbf0a9ec88e36ed23b7882f0b2aa1c311693c366b3f247eaffd2dbf7e0",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache50_010_meta.json",
+   "bytes": 145,
+   "sha256": "475a17bb43af0568f822777bdebc3357db09de978af1501cfe6b022772d697db",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache50_010_samples.csv",
+   "bytes": 110308,
+   "sha256": "967f8bc44118eb85ea154205192ac4db0cc7f3fe9e15eda76d8c69f8a745dc3e",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache50_010_serial.txt",
+   "bytes": 38212,
+   "sha256": "fac2da7a9d403428e01f31302abc8a9cea60d3025c7c90dc9edfc0f6f635c9c6",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache_warm_001_meta.json",
+   "bytes": 145,
+   "sha256": "123a0af3fa9ef64873f632d6c0d4e41fd93d83e852bd8f9f5ac9257ae849522d",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache_warm_001_samples.csv",
+   "bytes": 143228,
+   "sha256": "0dad67539317599da372d2e7f2fec9f123c5ad142a1e82e02b03462e41b3dbe1",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache_warm_001_serial.txt",
+   "bytes": 42547,
+   "sha256": "e797124c62cd129b0dc2acb062defd83b4160b76c6b0b9c93cdddc74fea7c0a9",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache_warm_002_meta.json",
+   "bytes": 145,
+   "sha256": "d980f53fc34591daf2a47b2014ad6e156bc3f2b0ef52953dacc13dae9a8a43e0",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache_warm_002_samples.csv",
+   "bytes": 136797,
+   "sha256": "1b7d13dd85b97637a1b230db2787ae257fbffb2604a62efbb7fe0eefb47ba665",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache_warm_002_serial.txt",
+   "bytes": 39730,
+   "sha256": "50a564f73b4ff80ed9d8055a544ae9814330fc9b030e83b8daa4c8e0271fe3bf",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache_warm_003_meta.json",
+   "bytes": 145,
+   "sha256": "d980f53fc34591daf2a47b2014ad6e156bc3f2b0ef52953dacc13dae9a8a43e0",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache_warm_003_samples.csv",
+   "bytes": 137790,
+   "sha256": "d4a47ef815db773c4588ea0b87cc01c0e745b16d7ad48ec19f5751d54eabbfc4",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache_warm_003_serial.txt",
+   "bytes": 41123,
+   "sha256": "abbf9b5bdbfc2aafce2099087ab3df0be30a4776f8332aa8f4efd4b186b42db6",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache_warm_004_meta.json",
+   "bytes": 145,
+   "sha256": "d980f53fc34591daf2a47b2014ad6e156bc3f2b0ef52953dacc13dae9a8a43e0",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache_warm_004_samples.csv",
+   "bytes": 139709,
+   "sha256": "711eaf806814ff5660f16362ec94684574750427488e29471806081eabed79a4",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache_warm_004_serial.txt",
+   "bytes": 42516,
+   "sha256": "74f7ad0c2267be599e6d6ed084b7126a43fae1c6f3ece7036a3d41a13edc9244",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache_warm_005_issue.txt",
+   "bytes": 38,
+   "sha256": "58a59f764023640ba5bcdc58402ab147e9e6a4cbbfb3f8f42448263ccc8028a2",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache_warm_005_serial.txt",
+   "bytes": 42788,
+   "sha256": "7b2510c4f5f2c652d9be8b2be815b8d0c3c8095bdad7cc1a91c71d125e745a4b",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache_warm_006_meta.json",
+   "bytes": 145,
+   "sha256": "6d68d32b01df4b8614f48db49162a32f90be265c53dcfeaa78c4d5c8a805a85e",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache_warm_006_samples.csv",
+   "bytes": 118628,
+   "sha256": "eac5b7dbb098fcf3f50bb61dac369d3dfd09fd7ed5b8cc1e009fcaf0338da7ac",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache_warm_006_serial.txt",
+   "bytes": 36315,
+   "sha256": "824582c98fb432d4740976f09e2e08ed93c82622626d9968515e458b85359302",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache_warm_007_meta.json",
+   "bytes": 145,
+   "sha256": "ac018d71099abd6b0cd5ec1d72c6dc81fa3cca59c065333ec03c06818388c86c",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache_warm_007_samples.csv",
+   "bytes": 118967,
+   "sha256": "adaf845601752193cc71686a89e9b29de3ceb1301d5494be3cec4599c4b320ea",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache_warm_007_serial.txt",
+   "bytes": 36346,
+   "sha256": "48a5bfebefb2d1ab9f4f5caf39e70187568aa490896c2a4d79d9e63dbebc4335",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache_warm_008_meta.json",
+   "bytes": 145,
+   "sha256": "6d68d32b01df4b8614f48db49162a32f90be265c53dcfeaa78c4d5c8a805a85e",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache_warm_008_samples.csv",
+   "bytes": 119376,
+   "sha256": "72bcf19a735256625dd4d419fe6522865404c891b5fc4493cc2367373faac364",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache_warm_008_serial.txt",
+   "bytes": 36315,
+   "sha256": "7e7c8d7f8da66ff536c4e8419d6a56d8243222b825dd7a376d6997a7467f65a5",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache_warm_009_meta.json",
+   "bytes": 145,
+   "sha256": "dd7840cb69ba82fa3282a924c84026dc986724737d57fbae9fb54196757d588d",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache_warm_009_samples.csv",
+   "bytes": 122539,
+   "sha256": "d7c594488761fa750df4001880dfb7179d2cc3123f12feaa337f56160bd346b0",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache_warm_009_serial.txt",
+   "bytes": 36377,
+   "sha256": "71fbaedd80724c23b85ed77efbe18284ac15c52d0f9cfada591529fe6700e5c2",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache_warm_010_meta.json",
+   "bytes": 145,
+   "sha256": "d980f53fc34591daf2a47b2014ad6e156bc3f2b0ef52953dacc13dae9a8a43e0",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache_warm_010_samples.csv",
+   "bytes": 138156,
+   "sha256": "30f9e1e7603e11c12e5ebc1986c839f707f5b784179bb9693cb96e38a1426402",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/cache_warm_010_serial.txt",
+   "bytes": 39730,
+   "sha256": "d40d7bb12cae310380615f94c47b14c6cc2058b1e54a28833954864649ebd20f",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_001_issue.txt",
+   "bytes": 55,
+   "sha256": "5b4d710464d18b9d21be48158da29b2e1a88ec7dbb244f615425ca782bb2aee1",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_001_metrics.json",
+   "bytes": 214,
+   "sha256": "c6c6f94cbe1832c7207bd908ab22914850e40beb4caadb421d5dc486ea40b474",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_001_serial.txt",
+   "bytes": 738,
+   "sha256": "420cffb56ea996bb84811d9c5999a31a81891b51ac760c7b17ec4bc43a241cdd",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_002_issue.txt",
+   "bytes": 55,
+   "sha256": "5b4d710464d18b9d21be48158da29b2e1a88ec7dbb244f615425ca782bb2aee1",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_002_metrics.json",
+   "bytes": 213,
+   "sha256": "b5a33d38e14d2f12d5610a94920cc30b093a204f924c522e34311d661dc6ef23",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_002_serial.txt",
+   "bytes": 736,
+   "sha256": "adfc9c0653685ca166aded5c01ef56575fe285cb7fa12378daf490f38282c53a",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_003_issue.txt",
+   "bytes": 55,
+   "sha256": "5b4d710464d18b9d21be48158da29b2e1a88ec7dbb244f615425ca782bb2aee1",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_003_metrics.json",
+   "bytes": 213,
+   "sha256": "f9d7a64c416bd7f29c8a665aa25a47b688eb7bac361f5f50f71fbf59955dbca0",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_003_serial.txt",
+   "bytes": 736,
+   "sha256": "6901f3c340c2b9b6e2c1e5c7d01f912dd2312d94bac6e21221fa54a6626cf445",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_004_issue.txt",
+   "bytes": 55,
+   "sha256": "5b4d710464d18b9d21be48158da29b2e1a88ec7dbb244f615425ca782bb2aee1",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_004_metrics.json",
+   "bytes": 213,
+   "sha256": "fd3476d5d03cbb6184fd4e25c2268da044055678b89a8f0709d58f9231856bc7",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_004_serial.txt",
+   "bytes": 736,
+   "sha256": "160c0905cc1b2dcd3efdeaad253293d2dfad5da434090c4e51f8746cec796392",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_005_issue.txt",
+   "bytes": 55,
+   "sha256": "5b4d710464d18b9d21be48158da29b2e1a88ec7dbb244f615425ca782bb2aee1",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_005_metrics.json",
+   "bytes": 213,
+   "sha256": "522a3572a40a69257d2b7cc45b74c90d7f4b097d68bb388bb25bf3d67dd8da86",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_005_serial.txt",
+   "bytes": 736,
+   "sha256": "04c9891c6bc3ae2e51301873033761a7db25c010c2dade4fadb9bddf0547c00a",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_006_issue.txt",
+   "bytes": 55,
+   "sha256": "5b4d710464d18b9d21be48158da29b2e1a88ec7dbb244f615425ca782bb2aee1",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_006_metrics.json",
+   "bytes": 213,
+   "sha256": "d5b0326af7e73119b8ce41f5f569d61505460225eca34e34eb736ca2b0176402",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_006_serial.txt",
+   "bytes": 736,
+   "sha256": "3154bf60b236d096276c9a71eb671fb6661104dbe0b0aeb471d29d28d46fab34",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_007_issue.txt",
+   "bytes": 55,
+   "sha256": "5b4d710464d18b9d21be48158da29b2e1a88ec7dbb244f615425ca782bb2aee1",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_007_metrics.json",
+   "bytes": 213,
+   "sha256": "123204058a4012cf41c27a9d29d068e74632509103d7ac7daa3b6b0f433e9da7",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_007_serial.txt",
+   "bytes": 736,
+   "sha256": "6901f3c340c2b9b6e2c1e5c7d01f912dd2312d94bac6e21221fa54a6626cf445",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_008_issue.txt",
+   "bytes": 55,
+   "sha256": "5b4d710464d18b9d21be48158da29b2e1a88ec7dbb244f615425ca782bb2aee1",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_008_metrics.json",
+   "bytes": 213,
+   "sha256": "ce20d408972dc25cfbab422c9ff21e1ed7d9de8b4e7cd26664378722a8235ebe",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_008_serial.txt",
+   "bytes": 736,
+   "sha256": "b29cd722590c251f35748ceb907f55ff7305a9af7e39809462829b428dd58e14",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_009_issue.txt",
+   "bytes": 55,
+   "sha256": "5b4d710464d18b9d21be48158da29b2e1a88ec7dbb244f615425ca782bb2aee1",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_009_metrics.json",
+   "bytes": 213,
+   "sha256": "702213e018621400420b945bdaca8d25025ec85f1527dba5fe2dee0184d9e99a",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_009_serial.txt",
+   "bytes": 736,
+   "sha256": "90417936dea9d788f4606e9fdaa3178420e2ce25895f6088d8b430d0b2a00761",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_010_issue.txt",
+   "bytes": 55,
+   "sha256": "5b4d710464d18b9d21be48158da29b2e1a88ec7dbb244f615425ca782bb2aee1",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_010_metrics.json",
+   "bytes": 214,
+   "sha256": "fd8043ac07f7d1005597c046093aa4fbea8ce0f940a90ca8577a512d2e4afc65",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_010_serial.txt",
+   "bytes": 736,
+   "sha256": "3154bf60b236d096276c9a71eb671fb6661104dbe0b0aeb471d29d28d46fab34",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_011_issue.txt",
+   "bytes": 55,
+   "sha256": "5b4d710464d18b9d21be48158da29b2e1a88ec7dbb244f615425ca782bb2aee1",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_011_metrics.json",
+   "bytes": 214,
+   "sha256": "38b49246487082bdc050e85e38d8ccab4799fbda21fe09c10846937165d4f2f9",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_011_serial.txt",
+   "bytes": 736,
+   "sha256": "6901f3c340c2b9b6e2c1e5c7d01f912dd2312d94bac6e21221fa54a6626cf445",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_012_issue.txt",
+   "bytes": 55,
+   "sha256": "5b4d710464d18b9d21be48158da29b2e1a88ec7dbb244f615425ca782bb2aee1",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_012_metrics.json",
+   "bytes": 214,
+   "sha256": "dc418f0ac9ed1c2a4f7624a8db6b429839246035c49c7cad39ea88895be45436",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_012_serial.txt",
+   "bytes": 736,
+   "sha256": "0236f55fb826b2a8e31e481c00be83b04b43dc13ca14fe74e2ab707f02fec951",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_013_issue.txt",
+   "bytes": 55,
+   "sha256": "5b4d710464d18b9d21be48158da29b2e1a88ec7dbb244f615425ca782bb2aee1",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_013_metrics.json",
+   "bytes": 214,
+   "sha256": "c41de38e65a81d71325d7e367807242bac72a73a479cc2d0a45a18b01b2eea98",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_013_serial.txt",
+   "bytes": 736,
+   "sha256": "660d488f54e7066383fd7c93d875eb19785a0f32c4440fb94e41fe4e99da2c79",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_014_issue.txt",
+   "bytes": 55,
+   "sha256": "5b4d710464d18b9d21be48158da29b2e1a88ec7dbb244f615425ca782bb2aee1",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_014_metrics.json",
+   "bytes": 214,
+   "sha256": "a13cf10adf7c7af9568b768145a38ff8d17647911d4f56c18812db612d486a5e",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_014_serial.txt",
+   "bytes": 736,
+   "sha256": "3154bf60b236d096276c9a71eb671fb6661104dbe0b0aeb471d29d28d46fab34",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_015_issue.txt",
+   "bytes": 55,
+   "sha256": "5b4d710464d18b9d21be48158da29b2e1a88ec7dbb244f615425ca782bb2aee1",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_015_metrics.json",
+   "bytes": 214,
+   "sha256": "c1bebc74d20e5561eb7494114e4b452388be119685faff63f069c562db183911",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_015_serial.txt",
+   "bytes": 736,
+   "sha256": "6901f3c340c2b9b6e2c1e5c7d01f912dd2312d94bac6e21221fa54a6626cf445",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_016_issue.txt",
+   "bytes": 55,
+   "sha256": "5b4d710464d18b9d21be48158da29b2e1a88ec7dbb244f615425ca782bb2aee1",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_016_metrics.json",
+   "bytes": 214,
+   "sha256": "a3e1bf0c2fc25f46fe39cba38e33d5dc27786307c7c0c4e3d14fd262bafa80b4",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_016_serial.txt",
+   "bytes": 736,
+   "sha256": "9571a52d8985c5ad7bab60b7d5090807ac971303264471cc2097f1b96a6b952e",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_017_issue.txt",
+   "bytes": 55,
+   "sha256": "5b4d710464d18b9d21be48158da29b2e1a88ec7dbb244f615425ca782bb2aee1",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_017_metrics.json",
+   "bytes": 214,
+   "sha256": "c79bb447ada2497c24c121c41504759983eb11d1d0c56147b9cce89f8daa921f",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_017_serial.txt",
+   "bytes": 736,
+   "sha256": "30b4808f92ab75fcfcff526213c81f6e833f4931c9b3052e4ce3c0f2b795b181",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_018_issue.txt",
+   "bytes": 55,
+   "sha256": "5b4d710464d18b9d21be48158da29b2e1a88ec7dbb244f615425ca782bb2aee1",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_018_metrics.json",
+   "bytes": 214,
+   "sha256": "4e32b48b9e37eede9150a63b313f216d20bed92922d0568d09849f156964f178",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_018_serial.txt",
+   "bytes": 736,
+   "sha256": "3154bf60b236d096276c9a71eb671fb6661104dbe0b0aeb471d29d28d46fab34",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_019_issue.txt",
+   "bytes": 55,
+   "sha256": "5b4d710464d18b9d21be48158da29b2e1a88ec7dbb244f615425ca782bb2aee1",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_019_metrics.json",
+   "bytes": 214,
+   "sha256": "cc550f07f492c6b153b1943a0111e71ae9adc7d2b10e8ed6c8516e6898012951",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_019_serial.txt",
+   "bytes": 736,
+   "sha256": "6901f3c340c2b9b6e2c1e5c7d01f912dd2312d94bac6e21221fa54a6626cf445",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_020_issue.txt",
+   "bytes": 55,
+   "sha256": "5b4d710464d18b9d21be48158da29b2e1a88ec7dbb244f615425ca782bb2aee1",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_020_metrics.json",
+   "bytes": 214,
+   "sha256": "64cd4a1f0079e3025c92778570158d9805826c537edffa7318b286390605e78e",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/dma_020_serial.txt",
+   "bytes": 736,
+   "sha256": "c1b52cb36f8b71ae7e66d0cb6025c09b4edb8ca63d9fad2940ed789640ca8001",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/interrupt_001_metrics.json",
+   "bytes": 167,
+   "sha256": "75d4523608cff989549ad89e36c38ac7fa8a11341223b2d736ad51c577dd4dfd",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/interrupt_001_serial.txt",
+   "bytes": 312,
+   "sha256": "790d464afd1f57af2004a4cd9de1aded785adec2c210e2caffd827268a8722bb",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/interrupt_002_metrics.json",
+   "bytes": 167,
+   "sha256": "fa3236f0dfac87ca5808152b2a7caac04dc71690e6d507bd862bd77e7a0fc7d5",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/interrupt_002_serial.txt",
+   "bytes": 312,
+   "sha256": "b468c8a38ef463b74951d3a223c3e8c336b5cb1e238bad19d5d8306aacc78a10",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/interrupt_003_metrics.json",
+   "bytes": 167,
+   "sha256": "470a3ef2ce9273655c445ca047edc19c7ef7dd6b1c4537c04430efe4d71380d5",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/interrupt_003_serial.txt",
+   "bytes": 312,
+   "sha256": "b468c8a38ef463b74951d3a223c3e8c336b5cb1e238bad19d5d8306aacc78a10",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/interrupt_004_metrics.json",
+   "bytes": 167,
+   "sha256": "074ad04a5ecf581dd05b5ca7fbc913a5c246f5f91e4a1756b29f3b21559dccef",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/interrupt_004_serial.txt",
+   "bytes": 312,
+   "sha256": "b468c8a38ef463b74951d3a223c3e8c336b5cb1e238bad19d5d8306aacc78a10",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/interrupt_005_metrics.json",
+   "bytes": 167,
+   "sha256": "eb4be1b98a29ac7afaa0e40dbccf73dc208336a87e3ad3c766012a7ec515fa16",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/interrupt_005_serial.txt",
+   "bytes": 312,
+   "sha256": "b468c8a38ef463b74951d3a223c3e8c336b5cb1e238bad19d5d8306aacc78a10",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/interrupt_006_metrics.json",
+   "bytes": 167,
+   "sha256": "d1228db69d3a4c65b27c74578b3ad6b0205909c29e6e266f284167a9d0c712fb",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/interrupt_006_serial.txt",
+   "bytes": 312,
+   "sha256": "b468c8a38ef463b74951d3a223c3e8c336b5cb1e238bad19d5d8306aacc78a10",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/interrupt_007_metrics.json",
+   "bytes": 167,
+   "sha256": "b35372db29cd033cc4be074ad6727ca767d5611278095890c50c3a0c7557f87a",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/interrupt_007_serial.txt",
+   "bytes": 312,
+   "sha256": "b468c8a38ef463b74951d3a223c3e8c336b5cb1e238bad19d5d8306aacc78a10",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/interrupt_008_metrics.json",
+   "bytes": 167,
+   "sha256": "37e3feb9ab17f006c15758c71128f2cb3ab3490b6d07edc2e143545a5551fbf3",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/interrupt_008_serial.txt",
+   "bytes": 312,
+   "sha256": "b468c8a38ef463b74951d3a223c3e8c336b5cb1e238bad19d5d8306aacc78a10",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/interrupt_009_metrics.json",
+   "bytes": 167,
+   "sha256": "3dc897485299a6f22cd69df6261e5c4e36aae8d72ba24b1d81453ed942801224",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/interrupt_009_serial.txt",
+   "bytes": 312,
+   "sha256": "b468c8a38ef463b74951d3a223c3e8c336b5cb1e238bad19d5d8306aacc78a10",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/interrupt_010_metrics.json",
+   "bytes": 168,
+   "sha256": "c7aa805da7f7e86049f07fdf203607c62d183234e9da7a170796367eba8b1daa",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/interrupt_010_serial.txt",
+   "bytes": 312,
+   "sha256": "b468c8a38ef463b74951d3a223c3e8c336b5cb1e238bad19d5d8306aacc78a10",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/manifest.json",
+   "bytes": 912,
+   "sha256": "73f1004b1919aebcab3d832f63f6a82c37ef9fa2061e0ae56deb0584f2b0cee2",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/poll_001_metrics.json",
+   "bytes": 105,
+   "sha256": "296c32d3ec242073ecfce5dc923e9e6288a80c0aa8bdc382892dbfe7cb8fb302",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/poll_001_serial.txt",
+   "bytes": 321,
+   "sha256": "0fb15c140dd78af140930b1b59f0885433610abf56cd9cf5db6a30eb4bb239c9",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/poll_002_metrics.json",
+   "bytes": 104,
+   "sha256": "92fa3fabee0336065a43391cbfe858b213a59247aa874e2c7b2be463f1a26b1d",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/poll_002_serial.txt",
+   "bytes": 321,
+   "sha256": "18164662c2ef055cb915da7d1a8a6579d80bc57d60266149768674f9b7b87bab",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/poll_003_metrics.json",
+   "bytes": 105,
+   "sha256": "f425d3e51a364824cb2ab82ce7157cd85be190554a70362279d3ea9bc04ded18",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/poll_003_serial.txt",
+   "bytes": 321,
+   "sha256": "e4e9e5419fd7ae0d61747d615ae2c2f28162cd4fbebd47261653df7f45a7d08c",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/poll_004_metrics.json",
+   "bytes": 105,
+   "sha256": "a61abd8a14991ef1ded1e1494e55aa4db682b9187b10fb863db20f17dc5b15e1",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/poll_004_serial.txt",
+   "bytes": 321,
+   "sha256": "f37b527c7becbce95c846e9b454631c706e9f2cb195d3c4c98d4627cf1fea335",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/poll_005_metrics.json",
+   "bytes": 105,
+   "sha256": "2bc09731a1cbe479bc50c6ae988c0f2c3b6d51a87007b047193a312279b92cad",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/poll_005_serial.txt",
+   "bytes": 321,
+   "sha256": "98cea6ce94222ae7d452c03cb63ef146217fc901009c1cffd4bad2eb5375cde4",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/poll_006_metrics.json",
+   "bytes": 105,
+   "sha256": "727c097a23467d3302130f080dba475ca490d5aba3031a5290779f5899448417",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/poll_006_serial.txt",
+   "bytes": 321,
+   "sha256": "014f2872ebd39d8f31a7652d1aa159611085d2f68964d8c71fbe90cf35beaa1f",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/poll_007_metrics.json",
+   "bytes": 105,
+   "sha256": "b7a96878a198baa448123c9c4b3d31e6a1f66329ac8dffecb4d283ba6c885683",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/poll_007_serial.txt",
+   "bytes": 321,
+   "sha256": "ecb66775716eec7e7831c832427d3b1009d26f34cf169c30f6e2e37056afc328",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/poll_008_metrics.json",
+   "bytes": 104,
+   "sha256": "bfd1c8ea89aa23b95000838db8e5644002879fbd22fb63a9be54661dcc0584a7",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/poll_008_serial.txt",
+   "bytes": 321,
+   "sha256": "208c60bb9aab827bfbdd3494c7d0e700735386716065131a5091dcc102cdc2e2",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/poll_009_metrics.json",
+   "bytes": 105,
+   "sha256": "aaef10135dd1b6ebf87a33ec829e892afab1331337b5f4a5b44590126ee362f3",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/poll_009_serial.txt",
+   "bytes": 321,
+   "sha256": "e4e9e5419fd7ae0d61747d615ae2c2f28162cd4fbebd47261653df7f45a7d08c",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/poll_010_metrics.json",
+   "bytes": 106,
+   "sha256": "dc39c21eee814e26b0505662794aeb9ab63c6f398bf51f86c08f9fb013e12e54",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/poll_010_serial.txt",
+   "bytes": 321,
+   "sha256": "9f01d55d7cbaa6518c9b498d0424da91780ab0a470e992cfbd2d4ec6d90d2d3e",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/spill_001_metrics.json",
+   "bytes": 204,
+   "sha256": "3ae2476cc700e287595f901fe1d3fb07c756ae150d26054f02e7fe8c7d21b3e8",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/spill_001_serial.txt",
+   "bytes": 898,
+   "sha256": "3fd99d54fb28557652bfc2643e023896033b66310e2e634bd4cd16add8d98d09",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/spill_002_metrics.json",
+   "bytes": 204,
+   "sha256": "c1b78ea46df888038dc8dc3fbe8912872ca1fae3aec42b1f17717170d8206e0e",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/spill_002_serial.txt",
+   "bytes": 898,
+   "sha256": "3fd99d54fb28557652bfc2643e023896033b66310e2e634bd4cd16add8d98d09",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/spill_003_metrics.json",
+   "bytes": 204,
+   "sha256": "dfc2074cd014e06ccbbf40904970300dd1c146be71fae631b7cc7af5a335a21d",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/spill_003_serial.txt",
+   "bytes": 898,
+   "sha256": "3fd99d54fb28557652bfc2643e023896033b66310e2e634bd4cd16add8d98d09",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/spill_004_metrics.json",
+   "bytes": 204,
+   "sha256": "77458b5ce54444221bd56ccca27614440627d6f4e752f23e5488f78178da92b1",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/spill_004_serial.txt",
+   "bytes": 898,
+   "sha256": "3fd99d54fb28557652bfc2643e023896033b66310e2e634bd4cd16add8d98d09",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/spill_005_metrics.json",
+   "bytes": 204,
+   "sha256": "18bfc37773201801b3a6b5d6ec32f9858d6241a623c6686b478e2d75dc88d9dd",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/spill_005_serial.txt",
+   "bytes": 898,
+   "sha256": "3fd99d54fb28557652bfc2643e023896033b66310e2e634bd4cd16add8d98d09",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/spill_006_metrics.json",
+   "bytes": 204,
+   "sha256": "7e68de5df8bc493cde1d32093bf9ee0b1cac2d051eff1182ab56dc0fba49d0c9",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/spill_006_serial.txt",
+   "bytes": 898,
+   "sha256": "3fd99d54fb28557652bfc2643e023896033b66310e2e634bd4cd16add8d98d09",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/spill_007_metrics.json",
+   "bytes": 204,
+   "sha256": "7c8c0b3a3541efabe220230ffac5cbbf6f0eed3bf861df1bbdf4b92beba58684",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/spill_007_serial.txt",
+   "bytes": 898,
+   "sha256": "3fd99d54fb28557652bfc2643e023896033b66310e2e634bd4cd16add8d98d09",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/spill_008_metrics.json",
+   "bytes": 204,
+   "sha256": "cdfafd590ee9f7296e0c462c7873ba64efdc5e90b4d0d6bfc50177f52872127f",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/spill_008_serial.txt",
+   "bytes": 898,
+   "sha256": "3fd99d54fb28557652bfc2643e023896033b66310e2e634bd4cd16add8d98d09",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/spill_009_metrics.json",
+   "bytes": 204,
+   "sha256": "a350ee8d540b902be34b6da71c9908b9af597a9514b03a2b4adbeef062981326",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/spill_009_serial.txt",
+   "bytes": 898,
+   "sha256": "3fd99d54fb28557652bfc2643e023896033b66310e2e634bd4cd16add8d98d09",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/spill_010_metrics.json",
+   "bytes": 205,
+   "sha256": "8c413ddaeba08d8e54a0c00b5007013a3b3d728cefca1c8dfacb600f5942ba28",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/spill_010_serial.txt",
+   "bytes": 898,
+   "sha256": "3fd99d54fb28557652bfc2643e023896033b66310e2e634bd4cd16add8d98d09",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/startup_serial.txt",
+   "bytes": 88,
+   "sha256": "eb0e924f758b6ad6d714d33bed9121517932274dad097e42b862b0cd1735e718",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress1_001_meta.json",
+   "bytes": 144,
+   "sha256": "8c4e78cd41970c290ee2905497d55a9ae2a1afcfdf00e3ffdd3c6717ef540883",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress1_001_samples.csv",
+   "bytes": 115266,
+   "sha256": "b5e11d8082382cb5f769b9afa4fd5d26e2b2e049a0393b7a59f44698155977e5",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress1_001_serial.txt",
+   "bytes": 35327,
+   "sha256": "c850bae4ce359e43d77a9adf682ee9edea62c9daaaf1b2c8bfe2650d8a986849",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress1_002_meta.json",
+   "bytes": 144,
+   "sha256": "c3b91192b85fd954e96de83d9bda6c5fd07fff38f9536b8f3d19036009ae3308",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress1_002_samples.csv",
+   "bytes": 136020,
+   "sha256": "27c119d97b77a1b5ac915c8745ca379354604944df8fc181509628472257fa04",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress1_002_serial.txt",
+   "bytes": 42713,
+   "sha256": "65535a644208a4f8fcad31a243ee86925e7edca0b6fa7e4a3214b2146e8a71f4",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress1_003_meta.json",
+   "bytes": 144,
+   "sha256": "1048afe96d537509b34f84fafb9852611fc28140f2e980e6a25a87200a644c62",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress1_003_samples.csv",
+   "bytes": 116205,
+   "sha256": "86eddd47f7f75f23b548943d6518abd024d7b325335deca002efc3bf73243ca9",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress1_003_serial.txt",
+   "bytes": 36543,
+   "sha256": "359c7ab6ed397052158d569243e5e46133d6f94236d28389b5106e1490450836",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress1_004_meta.json",
+   "bytes": 144,
+   "sha256": "c3b91192b85fd954e96de83d9bda6c5fd07fff38f9536b8f3d19036009ae3308",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress1_004_samples.csv",
+   "bytes": 135841,
+   "sha256": "cb7bc55bc6a387a1afd982efab0aaaea158e3bf1c3cc8b24467e013fd856964d",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress1_004_serial.txt",
+   "bytes": 42713,
+   "sha256": "bc1946458b08486a1d6a7ecbb46f6b638b8b3efde6ad98407267a756dc23752e",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress1_005_meta.json",
+   "bytes": 144,
+   "sha256": "964bfce97ff7c98bddea50ebd237321e4c2dd8a9d91a6bce67609fd7019c6049",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress1_005_samples.csv",
+   "bytes": 139715,
+   "sha256": "4714ae32facd63a8836400cf306b8cffdb5a2671d1dd7163da020f39911fa79a",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress1_005_serial.txt",
+   "bytes": 42744,
+   "sha256": "4562b7af79727e4140bb82a4add8d03e15f53ea094c4514c1f81e4159de963a4",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress1_006_meta.json",
+   "bytes": 144,
+   "sha256": "964bfce97ff7c98bddea50ebd237321e4c2dd8a9d91a6bce67609fd7019c6049",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress1_006_samples.csv",
+   "bytes": 139730,
+   "sha256": "65a0fcbad00df372bcc3285d53f2c5f2899d54f6d3077b9bd0a718e3918c9bab",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress1_006_serial.txt",
+   "bytes": 42744,
+   "sha256": "c92f8cc35f2c1ecf0b27d2d677a5b43971b9213f702f160d43ae38117b1807d8",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress1_007_meta.json",
+   "bytes": 144,
+   "sha256": "964bfce97ff7c98bddea50ebd237321e4c2dd8a9d91a6bce67609fd7019c6049",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress1_007_samples.csv",
+   "bytes": 139733,
+   "sha256": "4761d0c48d28f24cfbaccdb5e0e30f0dcc3b87c1e094702827b8b66ff1590a62",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress1_007_serial.txt",
+   "bytes": 42744,
+   "sha256": "7f74a762f2a690afa03fc58930e84ef649efb20d3e43ff73c2ebbd04c783039a",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress1_008_meta.json",
+   "bytes": 144,
+   "sha256": "35b9a447b8511ee3437487ae63bebe622234c6caebfdba3700437d3c07d6cef5",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress1_008_samples.csv",
+   "bytes": 118401,
+   "sha256": "02d03552f51633922f2e12ca8dd4cc846fe670e521c029cd9ab076c7b410b62f",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress1_008_serial.txt",
+   "bytes": 35371,
+   "sha256": "fbd62bf6e260bd61b6ab6e97551553638d1a94b533785334843291a13c925b01",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress1_009_meta.json",
+   "bytes": 144,
+   "sha256": "c3b91192b85fd954e96de83d9bda6c5fd07fff38f9536b8f3d19036009ae3308",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress1_009_samples.csv",
+   "bytes": 136159,
+   "sha256": "47e354ac7a32aae34cb178a15ee8df712b00e6ed93c1a8aef9c1c403c9c89981",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress1_009_serial.txt",
+   "bytes": 42713,
+   "sha256": "5e68da6dd6454fcf7f4dac706fa3134f21af378e5dd433ba121309650db0c425",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress1_010_meta.json",
+   "bytes": 144,
+   "sha256": "964bfce97ff7c98bddea50ebd237321e4c2dd8a9d91a6bce67609fd7019c6049",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress1_010_samples.csv",
+   "bytes": 141081,
+   "sha256": "2de2059286ec5508320d3b41288520ba5526e6cabffd4f223d00bcf5c07bb828",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress1_010_serial.txt",
+   "bytes": 42744,
+   "sha256": "bede3eb29b82689b06d1c66ffaae91fadaec71f2fa798067997e2ff90a3c0d42",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress5_001_meta.json",
+   "bytes": 145,
+   "sha256": "a5a61033239201db8ce2d26ed87b1368c19962d468a2367ce3946085a4bd4995",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress5_001_samples.csv",
+   "bytes": 130367,
+   "sha256": "6648f771aa9af69fb8b24d77f1ff151e9fc12e5196feb36786ab82486b34ee08",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress5_001_serial.txt",
+   "bytes": 43639,
+   "sha256": "4c25c1d7588b433d73a3044aab51f1e19315bd4a057e6910909efaae1af32b64",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress5_002_meta.json",
+   "bytes": 145,
+   "sha256": "edb17447831d63a2a22fe72efd711142b213c9a89d4233ce9a4eff74202d677e",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress5_002_samples.csv",
+   "bytes": 111851,
+   "sha256": "ad9463f55b96d6139cf69255a29d5027938ab09c5402f0ad1cc45dcddbe2e614",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress5_002_serial.txt",
+   "bytes": 37348,
+   "sha256": "a8084558420fa0094f3362cd5797af4943513abbbbe34290a8a216e06ec291ab",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress5_003_meta.json",
+   "bytes": 145,
+   "sha256": "3e74dc8aa6836c1d36345fba6dd661e0ac7140a8877bc724ff76e3d1382086fa",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress5_003_samples.csv",
+   "bytes": 130999,
+   "sha256": "edc2905b6d824dc5ac803e20832db8e087061835277a09cdf41c33c4799a3e42",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress5_003_serial.txt",
+   "bytes": 43621,
+   "sha256": "d8c330facd1833c69885e6a1eb1602e860b504445ecf5548005f353080d6c9a2",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress5_004_meta.json",
+   "bytes": 145,
+   "sha256": "a5a61033239201db8ce2d26ed87b1368c19962d468a2367ce3946085a4bd4995",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress5_004_samples.csv",
+   "bytes": 129482,
+   "sha256": "7d40dd1b8749204d2e69fd6c4b19a75993fcbc1aa8aec3efd0ae9e61b62c7141",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress5_004_serial.txt",
+   "bytes": 43635,
+   "sha256": "dd1fa3deef49cba10f324802694931256f4307604d862f635d3ba0e85dd13ad4",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress5_005_meta.json",
+   "bytes": 145,
+   "sha256": "3e74dc8aa6836c1d36345fba6dd661e0ac7140a8877bc724ff76e3d1382086fa",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress5_005_samples.csv",
+   "bytes": 129064,
+   "sha256": "ded5cf37be4dd6e80c5dd791c26c3aca44ccc7dc3fc11c3465c5b65b2317ab0a",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress5_005_serial.txt",
+   "bytes": 42194,
+   "sha256": "d0e0dabc978a4132e36aeeb930b1a250721bdf6bb160a2385b538cbbc05349dd",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress5_006_meta.json",
+   "bytes": 145,
+   "sha256": "a5a61033239201db8ce2d26ed87b1368c19962d468a2367ce3946085a4bd4995",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress5_006_samples.csv",
+   "bytes": 127967,
+   "sha256": "eaf2d6c835c2201b6ec35a06f1589bd8d2f1c145cf6e0c8d83ad6285c9906347",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress5_006_serial.txt",
+   "bytes": 42223,
+   "sha256": "d73d96bb80a474aeb5520588a950a9a7ae6c85fea7f7562318758dda842d1e52",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress5_007_meta.json",
+   "bytes": 145,
+   "sha256": "edb17447831d63a2a22fe72efd711142b213c9a89d4233ce9a4eff74202d677e",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress5_007_samples.csv",
+   "bytes": 111829,
+   "sha256": "5061c3465c5c8a836b74577f6debb0446d0a5c152efeac68c7193da2f095df04",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress5_007_serial.txt",
+   "bytes": 37349,
+   "sha256": "5cd1a359fb21446f19becf3db66636bf7276288538468fa92a0f0108ad313911",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress5_008_meta.json",
+   "bytes": 145,
+   "sha256": "3e74dc8aa6836c1d36345fba6dd661e0ac7140a8877bc724ff76e3d1382086fa",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress5_008_samples.csv",
+   "bytes": 130598,
+   "sha256": "afb2597588552fc1e20c50935b48b617d36a6c7346d6175e8bb26ca980f7afd2",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress5_008_serial.txt",
+   "bytes": 43614,
+   "sha256": "d5e09d770d27920660a6444d89fb207d53a5f31be60d464c4946a9f80aa7742b",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress5_009_meta.json",
+   "bytes": 145,
+   "sha256": "3e74dc8aa6836c1d36345fba6dd661e0ac7140a8877bc724ff76e3d1382086fa",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress5_009_samples.csv",
+   "bytes": 130660,
+   "sha256": "0b232fd59d271abd1997ddc8b5e1d0cc0e825b185b2cb24f908e66d868d74c65",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress5_009_serial.txt",
+   "bytes": 43598,
+   "sha256": "d7a9f2ed23f70f8100a8376d1370761cdc8888d905820d3cd06226821b50a555",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress5_010_meta.json",
+   "bytes": 145,
+   "sha256": "3e74dc8aa6836c1d36345fba6dd661e0ac7140a8877bc724ff76e3d1382086fa",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress5_010_samples.csv",
+   "bytes": 132055,
+   "sha256": "9043ab8ecd37198afe5ca5ff5e147b96805ab9665b621ef88f3d78cb0d3a17b3",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/stress5_010_serial.txt",
+   "bytes": 43617,
+   "sha256": "20c30e04f8fb07c07d79f490bda44831f60d9707c666552004d22d616550a951",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/timer_trial_summary.csv",
+   "bytes": 19033,
+   "sha256": "438ec5fe6b8fa764c712a25af72e21489a4695c3534b64ff8e4432ef78e4f46b",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/transfer_trials.csv",
+   "bytes": 2850,
+   "sha256": "28f03342e4925d0b9a6833a9c0edd42f9413adc9655febfe3d167dbcea6488a6",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_original/preflight_10nov/esp32_preflight_results/20261110_221648/trial_status.csv",
+   "bytes": 6679,
+   "sha256": "fdc2a265c37552bc8d95053cff19d4c924d4f33fa9da20c46a6e9864254f9d4e",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_diagnostic/diagnostic_serial_12nov/esp32_diag_results/20261112_121720/cache100_off_r01_combined.csv",
+   "bytes": 82709,
+   "sha256": "c9c737218f6346d77c33c89994913639f4f7edbb63352c872b8d1a3802236553",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_diagnostic/diagnostic_serial_12nov/esp32_diag_results/20261112_121720/cache100_off_r01_diag.csv",
+   "bytes": 21599,
+   "sha256": "7e9e94b6b54f77cd37a3572b1f6b36ec5f17f65d93c62f466853963de5a832c4",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_diagnostic/diagnostic_serial_12nov/esp32_diag_results/20261112_121720/cache100_off_r01_samples.csv",
+   "bytes": 33844,
+   "sha256": "3b06af75ec87246b32323a6bc82b600360572693852833e05d577bdd2a3d3dd1",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_diagnostic/diagnostic_serial_12nov/esp32_diag_results/20261112_121720/cache100_off_r01_serial.txt",
+   "bytes": 55866,
+   "sha256": "9d1b0600248a8bbd70c16b55b407bf558ab2d73c3c3393e87ff986062af51304",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_diagnostic/diagnostic_serial_12nov/esp32_diag_results/20261112_121720/cache100_on_r01_combined.csv",
+   "bytes": 83098,
+   "sha256": "b7d38065900b22c861d4db7eec4af8cbb355b91016c8b8fda9fcbf686c39398c",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_diagnostic/diagnostic_serial_12nov/esp32_diag_results/20261112_121720/cache100_on_r01_diag.csv",
+   "bytes": 22629,
+   "sha256": "32699cc9c57ed1bc131312f9481c926117fc84429804db6095b0794a9c846a38",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_diagnostic/diagnostic_serial_12nov/esp32_diag_results/20261112_121720/cache100_on_r01_samples.csv",
+   "bytes": 33913,
+   "sha256": "dd6332d426ef0f35264292eda427e5f62df36ba536713e1c990dc973e81e5a44",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_diagnostic/diagnostic_serial_12nov/esp32_diag_results/20261112_121720/cache100_on_r01_serial.txt",
+   "bytes": 56965,
+   "sha256": "3074079193ed4613112b1b85c8418cd59d8ad22faf0ee73ad494123ec35235c5",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_diagnostic/diagnostic_serial_12nov/esp32_diag_results/20261112_121720/cache50_off_r01_combined.csv",
+   "bytes": 82323,
+   "sha256": "acf3237682f75e6ad2a44b66dcc63fddff31e4200357746a9630503b36e28fd9",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_diagnostic/diagnostic_serial_12nov/esp32_diag_results/20261112_121720/cache50_off_r01_diag.csv",
+   "bytes": 21599,
+   "sha256": "471eef50b0bc3e5daff159ec1d37389e1287635d416c53e1f1d2ef4d4bd98269",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_diagnostic/diagnostic_serial_12nov/esp32_diag_results/20261112_121720/cache50_off_r01_samples.csv",
+   "bytes": 33864,
+   "sha256": "a02c41596a4e5f56f3f2621f7022b050c86f66310d092d29b6b281b7836c6309",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_diagnostic/diagnostic_serial_12nov/esp32_diag_results/20261112_121720/cache50_off_r01_serial.txt",
+   "bytes": 55922,
+   "sha256": "c8b5aa1f1678eebc9e0f6c2b4ce7d7c715a4550b97cf8af0084d2db6e1a4b3e6",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_diagnostic/diagnostic_serial_12nov/esp32_diag_results/20261112_121720/cache50_on_r01_combined.csv",
+   "bytes": 83764,
+   "sha256": "9f290a32b2ed3162d3287e5c0390cbed46e2ba73fd5a5e26fa6224e2a040da5b",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_diagnostic/diagnostic_serial_12nov/esp32_diag_results/20261112_121720/cache50_on_r01_diag.csv",
+   "bytes": 22627,
+   "sha256": "88972a2d188fca99d81b377cdf9f3e510158729b448b70847c70ca9357383872",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_diagnostic/diagnostic_serial_12nov/esp32_diag_results/20261112_121720/cache50_on_r01_samples.csv",
+   "bytes": 34097,
+   "sha256": "673a81c1bab6a98a37070692944decfb6e039baef36c6e5e6d663fca1b1c6771",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_diagnostic/diagnostic_serial_12nov/esp32_diag_results/20261112_121720/cache50_on_r01_serial.txt",
+   "bytes": 57145,
+   "sha256": "88e404d707ff21a181bc28872a7c420501d6c83770adb8f95c662fee582cb61e",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_diagnostic/diagnostic_serial_12nov/esp32_diag_results/20261112_121720/session_log.txt",
+   "bytes": 3808,
+   "sha256": "8e77883ab4240496c754268c9e121e167de2d9dfefc90a5584df0e100299066b",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_diagnostic/diagnostic_serial_12nov/esp32_diag_results/20261112_121720/stress1_cold_r01_combined.csv",
+   "bytes": 83082,
+   "sha256": "8f736bd08c8e49155f7145c204f1d756abfd0a545f3e5ed6f48b179daafd3d0f",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_diagnostic/diagnostic_serial_12nov/esp32_diag_results/20261112_121720/stress1_cold_r01_diag.csv",
+   "bytes": 22631,
+   "sha256": "cfc5a94a3d8c9dde654a842067fc4c6e6977d08020f220a87a8f4c6d6da31f41",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_diagnostic/diagnostic_serial_12nov/esp32_diag_results/20261112_121720/stress1_cold_r01_samples.csv",
+   "bytes": 33913,
+   "sha256": "e35efa6f492c5ba95302b031fc589daa9565ab1c0fd040a6021301f9b13f2596",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_diagnostic/diagnostic_serial_12nov/esp32_diag_results/20261112_121720/stress1_cold_r01_serial.txt",
+   "bytes": 57070,
+   "sha256": "bfbf08c88963351b065bcdb122d2b913e80742520129a357be0c204fc1662acb",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_diagnostic/diagnostic_serial_12nov/esp32_diag_results/20261112_121720/stress1_warm_r01_combined.csv",
+   "bytes": 80083,
+   "sha256": "11574d5f8a9cc269de08ed6273753fa030a9b6fcdaca648de7071d9c968e936c",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_diagnostic/diagnostic_serial_12nov/esp32_diag_results/20261112_121720/stress1_warm_r01_diag.csv",
+   "bytes": 19553,
+   "sha256": "bd7ed8b8ba6689db9e9e6aff90c548a088d47401a5d821096fb54837faaa7c05",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_diagnostic/diagnostic_serial_12nov/esp32_diag_results/20261112_121720/stress1_warm_r01_samples.csv",
+   "bytes": 31816,
+   "sha256": "27e152569379e9178c96b8db4c1c737ca619cad5cb442f29b7730a948b5c4270",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_diagnostic/diagnostic_serial_12nov/esp32_diag_results/20261112_121720/stress1_warm_r01_serial.txt",
+   "bytes": 51925,
+   "sha256": "77f66850bde854480e5dd2b0f3b55915242130b64828b106b260ec4684893694",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_diagnostic/diagnostic_serial_12nov/esp32_diag_results/20261112_121720/stress5_cold_r01_combined.csv",
+   "bytes": 82650,
+   "sha256": "7217da7649a1ee8dde1913b8143b45848673db19fea7e7bd0bdbe9b8220e8130",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_diagnostic/diagnostic_serial_12nov/esp32_diag_results/20261112_121720/stress5_cold_r01_diag.csv",
+   "bytes": 22729,
+   "sha256": "35481f7ca90d27771f1f835755bcdb183937fbd298f889a30b547ba1ec8fc2df",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_diagnostic/diagnostic_serial_12nov/esp32_diag_results/20261112_121720/stress5_cold_r01_samples.csv",
+   "bytes": 34354,
+   "sha256": "c7fdb5ab43b441656797c6b52613be36e2caeeb9d11485e2879579496495f504",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_diagnostic/diagnostic_serial_12nov/esp32_diag_results/20261112_121720/stress5_cold_r01_serial.txt",
+   "bytes": 57616,
+   "sha256": "a0c8c9fea6ef879f980861674cd584205b57519634cd20e5071a93e019c4fa07",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_diagnostic/diagnostic_serial_12nov/esp32_diag_results/20261112_121720/stress5_warm_r01_combined.csv",
+   "bytes": 80416,
+   "sha256": "b4b601943f4d9c62eeaf9f82c7c201e8e2d698ccfdecc8400d8d3221539b3ad7",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_diagnostic/diagnostic_serial_12nov/esp32_diag_results/20261112_121720/stress5_warm_r01_diag.csv",
+   "bytes": 19627,
+   "sha256": "46d843803b6897ed8bab678b40cc43423f6c0d0659aab040a491666e31167110",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_diagnostic/diagnostic_serial_12nov/esp32_diag_results/20261112_121720/stress5_warm_r01_samples.csv",
+   "bytes": 33278,
+   "sha256": "f5e93775a70d7a921f118493d8973124ad8675b2748d10c67069a0b0976773fa",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_diagnostic/diagnostic_serial_12nov/esp32_diag_results/20261112_121720/stress5_warm_r01_serial.txt",
+   "bytes": 53431,
+   "sha256": "f50297de51367048b44d103307775f73732c3a9cef98357914709bc38003d5fb",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_diagnostic/diagnostic_serial_12nov/esp32_diag_results/20261112_121720/summary.json",
+   "bytes": 8459,
+   "sha256": "f8ca874b9b753e5f8c0276925ed880bc4d052ab7c19225edcf73fd62d12ebbbe",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_analyzer/zeroplus_11nov/zeroplus_11nov/01_Transfer/Intr_120B_01.alc",
+   "bytes": 88302,
+   "sha256": "6dc19d4f5d5370b463ace1cc04449341f1bdac18aa154810eca6a26cfab64f2e",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_analyzer/zeroplus_11nov/zeroplus_11nov/01_Transfer/Intr_16B_01.alc",
+   "bytes": 88377,
+   "sha256": "b1b8a1aab055dccf9d32ea50877778a1bb39163084f814365dda35e7f64bb792",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_analyzer/zeroplus_11nov/zeroplus_11nov/01_Transfer/Intr_64B_01.alc",
+   "bytes": 88386,
+   "sha256": "e3c245708f2d7bc96f76b9830024038d64dcc8623ccca035c7a15888b093610d",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_analyzer/zeroplus_11nov/zeroplus_11nov/01_Transfer/Intr_8B_01.alc",
+   "bytes": 88403,
+   "sha256": "01c1fa59df77a60502986234fafac82cc9de364c4f01afec8e1ac6902727e5dc",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_analyzer/zeroplus_11nov/zeroplus_11nov/01_Transfer/Polling_01.alc",
+   "bytes": 88187,
+   "sha256": "d32604ab68487a4d9609f54651d65a58f284a416e1886f4e7aa3c9035edb76e0",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_analyzer/zeroplus_11nov/zeroplus_11nov/01_Transfer/SPI_DMA_01.alc",
+   "bytes": 88510,
+   "sha256": "dd5012308ea5b86ca850d9da3a9c103e99028ce520e4881539d088c7811d2891",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_analyzer/zeroplus_11nov/zeroplus_11nov/02_Stress/Baseline_01.alc",
+   "bytes": 90687,
+   "sha256": "37057e5ca8e7b14ab5a6dea9605758f139cc0f4441833b2904b6f7eb658eecdf",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_analyzer/zeroplus_11nov/zeroplus_11nov/02_Stress/Baseline_02.alc",
+   "bytes": 95115,
+   "sha256": "812b61aa4d95e8f80e53981f07934c51a62c75422b73365a78d1e83e64a39437",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_analyzer/zeroplus_11nov/zeroplus_11nov/02_Stress/HighStress_01.alc",
+   "bytes": 102883,
+   "sha256": "ca5b16329de726ff1dbff0c1e5bbfc05926fca7fb80b8084b6c68c65c932e7d2",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_analyzer/zeroplus_11nov/zeroplus_11nov/02_Stress/Highstress_02.alc",
+   "bytes": 99893,
+   "sha256": "3ba10ab3f6031ecfdc228b15dc7a241cabee40cc1a590fd190a7e4cb822e56f9",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_analyzer/zeroplus_11nov/zeroplus_11nov/03_Cache/Warm_01.alc",
+   "bytes": 90836,
+   "sha256": "8af851f614a8a3ee582f88de87914bc008007e7efafb0f98c6df304c59eb555a",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_analyzer/zeroplus_11nov/zeroplus_11nov/03_Cache/cache125_01.alc",
+   "bytes": 92488,
+   "sha256": "71b5391e5a785c63c2fd579e53303ae4dabac094db511fab0979808645dfdd96",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_analyzer/zeroplus_11nov/zeroplus_11nov/03_Cache/cache50_01.alc",
+   "bytes": 94424,
+   "sha256": "8f21ba174357f20febea5d9c3266fea137e34de6e9e3aab6f2c69cc37772f0f6",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_analyzer/zeroplus_11nov/zeroplus_11nov/03_Cache/coldlinemax_01.alc",
+   "bytes": 95609,
+   "sha256": "27c1c85e8eea06abbfe3747052f3cf6d43594c24e3858bf3fc0648ad6ca7998e",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_analyzer/zeroplus_11nov/zeroplus_11nov/Reg_overflow_01.alc",
+   "bytes": 93445,
+   "sha256": "76b54589447aa36a7c856500c4b76291e43f6f6fdf8ce221fcddca4cb7b89cc8",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_analyzer/zeroplus_11nov/zeroplus_11nov/SetupB/Dac_feeder_stall_01.alc",
+   "bytes": 88188,
+   "sha256": "eae639a37264cba4677bae86dbd71d1071fccda6b1884cac8c133fb85fd2abdd",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_analyzer/zeroplus_11nov/zeroplus_11nov/SetupB/Dac_feeder_stall_02.alc",
+   "bytes": 88553,
+   "sha256": "59b4faf040aac2b84d6bc92cf61d8effb3744668476496647ba66d0d536fb0e8",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_analyzer/zeroplus_11nov/zeroplus_11nov/SetupB/Dac_output_latency_01.alc",
+   "bytes": 87575,
+   "sha256": "445aa1c0ef82efaac52a1563601401e7a0700652f11a500d9d31f0906f22365b",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_analyzer/zeroplus_11nov/zeroplus_11nov/SetupB/Run_f_01.alc",
+   "bytes": 88054,
+   "sha256": "09bc657e3c5656be014ecb4585749169162a3623af55a3d1d59ca1cbbe10cd10",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_analyzer/zeroplus_11nov/zeroplus_11nov/SetupB/Run_v_01.alc",
+   "bytes": 89095,
+   "sha256": "29cbff1973ba629c0be2a08de99278b99b5ad2e9c93cc4a22979ec449a777e6e",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_analyzer/zeroplus_11nov/zeroplus_11nov/SetupB/Run_w_01.alc",
+   "bytes": 88105,
+   "sha256": "bdf6cdcaf3233b9972f668b85a98cea8b00338a8c540e808241837d67f77e273",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_analyzer/zeroplus_11nov/zeroplus_11nov/SetupB/Run_x_01.alc",
+   "bytes": 88064,
+   "sha256": "220ba033ba0c969b6a47623f7da53301137a2ee1201ed07ad302094863e8b808",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_analyzer/zeroplus_11nov/zeroplus_11nov/regflow_1000x_comp_01.alc",
+   "bytes": 87605,
+   "sha256": "2dd72dcd8636d3b082603723c4c386d5e4ac20d40a3939c39fe4f5f7d75bb435",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_analyzer/zeroplus_11nov/zeroplus_11nov/regoverflow_02.alc",
+   "bytes": 96395,
+   "sha256": "e77f70916d20874065a8246eea45825a5518a7aa3fe025aabf7fcbb59152f007",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_analyzer/zeroplus_12nov/zeroplus_12nov/71.alc",
+   "bytes": 121922,
+   "sha256": "4f6e004f4f3bbc8510d7ba14684da2e447f2927f2a3f6206945307cfc85e07b9",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_analyzer/zeroplus_12nov/zeroplus_12nov/75.alc",
+   "bytes": 127724,
+   "sha256": "6ac3cf1ae7452c31f700be48599942f26f8239ecbedaf2226ce7f42d3fdefc7c",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_analyzer/zeroplus_12nov/zeroplus_12nov/C100_flushOFF.alc",
+   "bytes": 121713,
+   "sha256": "4dbbc7834cf824803cbc4e3a291f480d0adead735a2d42ab3c3c58704ada5ae0",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_analyzer/zeroplus_12nov/zeroplus_12nov/C100_flushON.alc",
+   "bytes": 123114,
+   "sha256": "701ee90bfcbd85840a1f3d18d63113ce649bd1c4aab20adbf79052dbc1954f33",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_analyzer/zeroplus_12nov/zeroplus_12nov/C50_flushOFF.alc",
+   "bytes": 119426,
+   "sha256": "2c916cbefba413f7423864832c573d6956e6272e858c84fcf2ebde5aa2c5bc43",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_analyzer/zeroplus_12nov/zeroplus_12nov/C50_flushON.alc",
+   "bytes": 121455,
+   "sha256": "9093790db316cc65008e3343164285a7b6cc29323172a3ff88b59bac2d938d4b",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_analyzer/zeroplus_12nov/zeroplus_12nov/DAC_latency_diag.alc",
+   "bytes": 87895,
+   "sha256": "cec88af63a2e9c59e7047df69230c1b4eef7910d971238c4cbc25971a4f1d68b",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_analyzer/zeroplus_12nov/zeroplus_12nov/DAC_stall_diag_highres.alc",
+   "bytes": 88459,
+   "sha256": "338acd6be345b945eed64161c552236b47119beb17b750f7d498682a3292b7f3",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_analyzer/zeroplus_12nov/zeroplus_12nov/DAC_stall_diag_lowres.alc",
+   "bytes": 88645,
+   "sha256": "8b9c4614bf13cf352e4f7d50e4ca4b516a05d0694709a166a7c4bf67f80d58dd",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_analyzer/zeroplus_12nov/zeroplus_12nov/run_d_1.alc",
+   "bytes": 88567,
+   "sha256": "c1408c5ee4b822c4ac4f7c866518d1306373a9de42468731f4af0fc92a229925",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_analyzer/zeroplus_12nov/zeroplus_12nov/run_d_2.alc",
+   "bytes": 88549,
+   "sha256": "a3542ca037367451bba67ce23bd7af00dd58ae6b0cccb217e5fad45866fe6e81",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_analyzer/zeroplus_12nov/zeroplus_12nov/run_d_3.alc",
+   "bytes": 88552,
+   "sha256": "99bd3f9ead9289c5426efbcd029e55e9810427d24e135093c15255b555d13720",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_analyzer/zeroplus_12nov/zeroplus_12nov/u1.alc",
+   "bytes": 118257,
+   "sha256": "628cc4814d909bc4e2769449fd58c5357a065497b597d167feba811e27437c8b",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "data/raw_analyzer/zeroplus_12nov/zeroplus_12nov/u5.alc",
+   "bytes": 128435,
+   "sha256": "b1885a332eeeaf65785b0d08bedc51f2d7aad5c4773b51861ad3bc825974fecd",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "firmware/original/esp32_benchmark_logged.ino",
+   "bytes": 59622,
+   "sha256": "63f524281dd4c16b970e49ec8c26be84a7ee3918f3a15b79333eab0fdaeee56b",
+   "in_handoff_manifest": true,
+   "matches": true
+  },
+  {
+   "path": "firmware/diagnostic/ESP32_Diag_Fixed/ESP32_Diag.ino",
+   "bytes": 65707,
+   "sha256": "f4208d9267c4d0a166dc89dbf7b15a8e1d6f25c5531ae7649c1ebfb174aa93cb",
+   "in_handoff_manifest": true,
+   "matches": true
+  }
+ ]
+}

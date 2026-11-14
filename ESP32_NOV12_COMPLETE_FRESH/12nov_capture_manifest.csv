@@ -1,0 +1,15 @@
+filename,nominal_experiment,confirmation
+71.alc,possible command pair encoded by name; verify,filename only; serial command record not present
+75.alc,possible command pair encoded by name; verify,filename only; serial command record not present
+C100_flushOFF.alc,16-line cache, flush OFF,filename only; serial command record not present
+C100_flushON.alc,16-line cache, flush ON,filename only; serial command record not present
+C50_flushOFF.alc,8-line cache, flush OFF,filename only; serial command record not present
+C50_flushON.alc,8-line cache, flush ON,filename only; serial command record not present
+DAC_latency_diag.alc,DAC latency / stall (verify threshold + capture scale),filename only; serial command record not present
+DAC_stall_diag_highres.alc,DAC latency / stall (verify threshold + capture scale),filename only; serial command record not present
+DAC_stall_diag_lowres.alc,DAC latency / stall (verify threshold + capture scale),filename only; serial command record not present
+run_d_1.alc,SPI DMA transaction sequence (check reset/order),filename only; serial command record not present
+run_d_2.alc,SPI DMA transaction sequence (check reset/order),filename only; serial command record not present
+run_d_3.alc,SPI DMA transaction sequence (check reset/order),filename only; serial command record not present
+u1.alc,possible command pair encoded by name; verify,filename only; serial command record not present
+u5.alc,possible command pair encoded by name; verify,filename only; serial command record not present

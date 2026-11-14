@@ -1,0 +1,7 @@
+{
+  "test": "poll",
+  "wall_us": 5101.0,
+  "poll_work_us": 5100.98,
+  "pass": true,
+  "repeat": 10
+}

@@ -1,0 +1,57 @@
+{
+  "source": "zeroplus_11nov/01_Transfer/SPI_DMA_01.alc",
+  "parser": "experimental zero-plus packed-duration v2",
+  "compression": "zlib + four-byte compressed records",
+  "sample_rate_hz_assumed": 25000000,
+  "tick_ns": 40.0,
+  "compressed_records": 32768,
+  "capture_duration_ms": 255.9384,
+  "zlib_stream_offset": 337,
+  "channel_map": {
+    "0": "A0_GPIO25",
+    "1": "A1_GPIO22",
+    "2": "A2_GPIO19",
+    "3": "A3_GPIO21",
+    "4": "A4_GPIO18_SCLK",
+    "5": "A5_GPIO23_MOSI",
+    "6": "A6_GPIO27_MISO",
+    "7": "A7_GPIO5_CS"
+  },
+  "edges_by_channel": {
+    "A0": 6,
+    "A1": 2,
+    "A2": 2,
+    "A3": 0,
+    "A4": 8192,
+    "A5": 844,
+    "A6": 844,
+    "A7": 2
+  },
+  "spi_sclk_rising_edges_under_cs": 4096,
+  "spi_full_bytes": 512,
+  "spi_mismatched_bytes": 0,
+  "spi_clock_period_median_us": 1.24,
+  "gpio25_high_intervals_us": [
+    31.88,
+    23.68,
+    5357.52
+  ],
+  "gpio22_high_intervals_us": [
+    226.12
+  ],
+  "spi_cs_low_intervals_us": [
+    5121.0
+  ],
+  "warnings": [
+    "Acquisition rate is user-supplied, not independently parsed from .alc header.",
+    "File format reverse-engineered using one 25MHz/32K/compressed capture; other models/settings require validation.",
+    "Time stamps are quantized to 40ns. Input edges between clock samples are not recoverable.",
+    "GPIO25/22 timing may differ slightly from UI due to ZEROPLUS interpolation/measurement boundaries."
+  ],
+  "validation": {
+    "spi_cs_expected_us": 5120,
+    "spi_cs_measured_us": 5121.0,
+    "spi_expected_clocks": 4096,
+    "spi_actual_clocks": 4096
+  }
+}

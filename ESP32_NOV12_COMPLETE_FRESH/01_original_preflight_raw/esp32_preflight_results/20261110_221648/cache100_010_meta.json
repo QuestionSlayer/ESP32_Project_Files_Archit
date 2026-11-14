@@ -1,0 +1,9 @@
+{
+  "total": 1401,
+  "retained": 1401,
+  "dropped": 0,
+  "cpu_mhz": 160,
+  "nominal_us": 50,
+  "cache_mode": 3,
+  "stress_priority": 22
+}

@@ -1,0 +1,8 @@
+mode,metric,n,unique,all_identical
+dma,wall_us,20,4,False
+poll,wall_us,10,5,False
+interrupt,wall_us,10,2,False
+interrupt,isr_work_us,10,1,True
+spill,spill_resident_cycles,10,1,True
+spill,spill_forced_cycles,10,1,True
+spill,spill_deep_cycles,10,1,True

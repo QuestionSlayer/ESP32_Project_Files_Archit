@@ -1,0 +1,55 @@
+{
+  "started_utc": "2026-11-10T16:46:48.632978+00:00",
+  "port": "COM15",
+  "baud": 115200,
+  "repeats": 10,
+  "dma_repeats": 20,
+  "duration_s": 0.075,
+  "firmware_expected": "esp32_benchmark_logged.ino",
+  "spi_loopback_jumper": "GPIO23 -> GPIO27",
+  "tests": [
+    [
+      "dma",
+      20
+    ],
+    [
+      "poll",
+      10
+    ],
+    [
+      "interrupt",
+      10
+    ],
+    [
+      "stress1",
+      10
+    ],
+    [
+      "stress5",
+      10
+    ],
+    [
+      "cache_warm",
+      10
+    ],
+    [
+      "cache12",
+      10
+    ],
+    [
+      "cache50",
+      10
+    ],
+    [
+      "cache100",
+      10
+    ],
+    [
+      "spill",
+      10
+    ]
+  ],
+  "note": "DMA loopback requires jumper; stress/cache effects are not predetermined; edge data requires logic analyzer.",
+  "finished_utc": "2026-11-10T16:50:19.346007+00:00",
+  "completed_trials": 110
+}

@@ -1,0 +1,442 @@
+key,value,result_file,computed_by,raw_source
+alc.dac.f.a1_period.mean,25600.02,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.dac.f.a1_period.sd,5.240093,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.dac.f.a1_pulses,11,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.dac.f.a1_width.mean,35.28,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.dac.f.fill_us_per_sample,0.137813,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.dac.f.marker_duty_pct,0.137812,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.dac.f.rate_hz,39.062469,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.dac.lat11.lags_us.0,9764.36,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.dac.lat11.lags_us.1,9764.72,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.dac.lat11.lags_us.2,9764.4,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.dac.lat11.samples_equiv,195.289867,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.dac.lat12.lags_us.0,9763.76,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.dac.lat12.lags_us.1,9764.08,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.dac.lat12.lags_us.2,9763.76,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.dac.stall11.events.0.resume_after_stall_end_us,114.68,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.dac.stall11.events.0.stall_us,20000.16,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.dac.v.a0_period.mean,200.000156,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.dac.v.a1_period.mean,800.000752,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.dac.v.a1_period.sd,2.410182,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.dac.v.a1_pulses,320,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.dac.v.a1_width.mean,1.17475,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.dac.v.fill_us_per_sample,0.146844,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.dac.v.marker_duty_pct,0.146844,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.dac.v.rate_hz,1249.998824,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.dac.v.valid_ms,256.57208,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.dac.w.a1_period.mean,6400.004,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.dac.w.a1_period.sd,0.512314,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.dac.w.a1_pulses,41,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.dac.w.a1_width.mean,8.876098,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.dac.w.fill_us_per_sample,0.138689,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.dac.w.marker_duty_pct,0.138689,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.dac.w.rate_hz,156.249902,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.dac.write12.width.p50,6390.24,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.dac.x.a1_period.mean,102400.1,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.dac.x.a1_period.sd,0.028284,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.dac.x.a1_pulses,3,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.dac.x.a1_width.mean,140.88,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.dac.x.fill_us_per_sample,0.137578,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.dac.x.marker_duty_pct,0.137578,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.dac.x.rate_hz,9.765615,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.dac.x.valid_ms,283.90592,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.inventory.n,38,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.inventory.n11,24,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.inventory.n12,14,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.inventory.n_pretrigger,22,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.reg.cycles_per_iter.0,261.4208,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.reg.cycles_per_iter.1,2116.0832,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.reg.cycles_per_iter.2,621.2288,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.spi.d1.a0_us,5354.92,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.spi.d1.cs_low_us,5121.28,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.spi.d1.overhead_us,233.64,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.spi.d1.pre_cb_after_a0,217.36,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.spi.d1.queue_us,227.56,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.spi.d2.a0_us,5209.88,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.spi.d2.cs_low_us,5121.28,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.spi.d2.overhead_us,88.6,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.spi.d2.pre_cb_after_a0,72.32,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.spi.d2.queue_us,83.72,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.spi.d3.a0_us,5210.96,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.spi.d3.cs_low_us,5121.28,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.spi.d3.overhead_us,89.68,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.spi.d3.pre_cb_after_a0,73.4,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.spi.d3.queue_us,83.6,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.spi.first_minus_later_precb,144.5,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.spi.first_minus_later_queue,143.9,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.spi.spi11.a0_to_sclk,216.72,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.spi.spi11.a0_us,5352.76,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.spi.spi11.cb_us,3.44,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.spi.spi11.cs_low_us,5121.24,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.spi.spi11.last_sclk_to_cb,17.2,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.spi.spi11.overhead_us,231.52,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.spi.spi11.queue_us,226.6,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.spi.spi11.sclk_period_mean,1.250002,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.spi.spi11.sclk_rises,4096,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.base01.a1_no.p50,0.92,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.base01.a2_period.mean,50.050568,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.base01.a2_period.sd,0.781627,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.base01.lat.mean,13.299963,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.base01.lat.n,3240,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.base01.lat.p50,13.08,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.base01.lat.p99,20.76,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.base01.lat.sd,1.214289,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.base01.lat_gt50.pct,0,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.base01.legacy_a1_median,2.76,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.base02.a1_no.p50,20.04,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.base02.lat.mean,17.277554,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.base02.legacy_a1_median,15.84,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.c100off.a1_isr.mean,29.104096,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.c100off.a1_no.mean,20.098162,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.c100off.a1_no.n,2819,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.c100off.a2_absjit.mean,5.89161,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.c100off.a3.mean,21.49683,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.c100off.frac_isr.pct,2.860096,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.c100off.lead.p50,0.4,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.c100on.a1_isr.mean,27.702972,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.c100on.a1_no.mean,20.07771,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.c100on.a1_no.n,1712,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.c100on.a2_absjit.mean,6.647175,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.c100on.a3.mean,28.646268,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.c100on.frac_isr.pct,41.168385,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.c100on.lead.p50,4.52,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.c100on.n_a1,2910,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.c50off.a1_no.mean,10.586806,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.c50off.a1_no.n,2592,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.c50off.a2_absjit.mean,0.756635,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.c50off.a3.mean,11.653951,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.c50off.frac_isr.pct,0,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.c50off.lead.p50,0.4,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.c50off.n_a1,2592,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.c50on.a1_isr.mean,18.667952,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.c50on.a1_no.mean,10.53177,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.c50on.a1_no.n,2695,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.c50on.a2_absjit.mean,9.209287,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.c50on.a3.mean,16.024996,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.c50on.frac_isr.pct,2.987761,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.c50on.lead.p50,4.52,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.eight.frac_isr.pct,3.66784,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.hs01.a1_no.p50,0.92,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.hs01.a2_period.mean,50.054033,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.hs01.a2_period.sd,1.700819,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.hs01.lat.mean,52.900531,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.hs01.lat.n,3314,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.hs01.lat.p99,113.28,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.hs01.lat.sd,34.296392,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.hs01.lat_gt50.pct,50.9656,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.hs02.a1_no.p50,20.04,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.hs02.lat.mean,39.237258,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.regov1.a1_no.p50,20.04,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.regov1.lat.mean,16.565839,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.regov2.a1_no.p50,20.04,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.regov2.lat.mean,16.464498,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.sixteen.a1_isr.mean,27.34202,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.sixteen.a1_no.mean,20.068039,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.sixteen.a1_no.n,2070,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.sixteen.a1_no.p50,20.04,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.sixteen.frac_isr.pct,43.349754,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.sixteen.n_a1,3654,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.sixteen.n_isr,1584,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.u1.a2_period.mean,50.050639,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.u1.a2_period.sd,0.892747,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.u1.lat.mean,13.793459,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.u1.lat.n,2599,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.u1.lat.p99,21.5616,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.u1.lat.sd,1.218556,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.u1.lat_gt50.pct,0,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.u5.a2_period.mean,50.054949,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.u5.a2_period.sd,1.83136,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.u5.lat.mean,54.942642,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.u5.lat.n,2657,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.u5.lat.p99,159.4528,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.u5.lat.sd,37.405493,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.u5.lat_gt50.pct,54.384644,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.x71.a1_no.p50,20.04,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.timer.x71.lat.mean,14.323877,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.uart.120.a0_us,5122.64,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.uart.120.a2_sum_us,40.28,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.uart.120.long_gap_us,1199.68,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.uart.120.pair_gap_us,10.32,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.uart.120.service_frac_pct,0.786313,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.uart.120.txfifo_entries,8,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.uart.16.a0_us,5122.64,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.uart.16.a2_sum_us,74.44,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.uart.16.last_frame_end_after_a0,5120.2,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.uart.16.long_gap_us,157.48,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.uart.16.pair_gap_us,2.52,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.uart.16.service_frac_pct,1.453157,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.uart.16.txdone_after_last_frame_end,2.08,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.uart.16.txfifo_entries,48,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.uart.64.a0_us,5122.64,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.uart.64.a2_sum_us,43.12,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.uart.64.long_gap_us,633.92,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.uart.64.pair_gap_us,6.08,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.uart.64.service_frac_pct,0.841753,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.uart.64.txfifo_entries,12,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.uart.8.a0_us,5123.84,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.uart.8.a1_data_us,0.96,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.uart.8.a2_sum_us,113.76,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.uart.8.long_gap_us,78.12,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.uart.8.pair_gap_us,1.88,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.uart.8.service_frac_pct,2.22021,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.uart.8.txfifo_entries,96,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.uart.poll.a0_us,5114.4,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.uart.poll.a1_us,5113.12,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.uart.poll.first_mismatch_index,130,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.uart.poll.frames,511,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.uart.poll.n_tail,381,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.validation.dac_10mhz_cycle_us,200,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.validation.dac_cycle_us,200.000156,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.validation.dac_lowrate_cycle_us,200,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.validation.legacy_uart_bytes_match,1,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.validation.legacy_uart_framing_errors,91,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.validation.spi_bit_us,1.250002,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.validation.timer_period_us,50.050568,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+alc.validation.uart_frame_us,10,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+diag.cache100_off.absjit.mean,5.872321,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.cache100_off.cb.mean,21.666547,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.cache100_off.flush.p50,0.09375,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.cache100_off.frac_isr_load.pct,3.320312,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.cache100_off.load_isr.mean,30.533824,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.cache100_off.load_noisr.mean,20.232361,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.cache100_off.load_noisr.n,990,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.cache100_on.absjit.mean,6.462646,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.cache100_on.cb.mean,28.633514,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.cache100_on.fastpath.frac_below_floor_prev_clear.pct,6.965174,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.cache100_on.fastpath.frac_below_floor_prev_overlap.pct,91.211401,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.cache100_on.fastpath.n_prev_overlap,421,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.cache100_on.flush.p50,4.20625,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.cache100_on.frac_isr_load.pct,41.113281,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.cache100_on.load_isr.mean,27.806339,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.cache100_on.load_noisr.mean,20.166884,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.cache100_on.load_noisr.n,603,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.cache50_off.absjit.mean,0.768683,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.cache50_off.cb.mean,11.699951,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.cache50_off.flush.p50,0.09375,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.cache50_off.frac_isr_load.pct,0,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.cache50_off.load_noisr.mean,10.691797,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.cache50_off.load_noisr.n,1024,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.cache50_on.absjit.mean,9.281238,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.cache50_on.cb.mean,16.158838,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.cache50_on.cycle3.values.0,38.4,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.cache50_on.cycle3.values.1,48.2,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.cache50_on.cycle3.values.2,63.85,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.cache50_on.flush.p50,4.20625,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.cache50_on.frac_isr_load.pct,3.613281,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.cache50_on.load_isr.mean,18.773142,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.cache50_on.load_noisr.mean,10.647011,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.cache50_on.load_noisr.n,987,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.cache50_on.period_acf.lag1,-0.55474,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.cache50_on.period_acf.lag3,0.629691,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.contrast.eight.absjit_reduction_pct,91.717884,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.contrast.eight.load_noisr_diff_cycles,7.165717,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.contrast.sixteen.absjit_reduction_pct,9.13443,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.contrast.sixteen.load_noisr_diff_cycles,10.476285,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.stress1_warm.lat.mean,13.414062,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.stress1_warm.lat.p99,21.17775,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.stress1_warm.lat.sd,1.26398,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.stress1_warm.lat_gt50.pct,0,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.stress1_warm.n,1024,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.stress1_warm.period.mean,50.050543,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.stress1_warm.period.sd,0.776919,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.stress5_warm.by_depth.0.mean,23.252637,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.stress5_warm.by_depth.0.n,467,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.stress5_warm.by_depth.1.mean,74.03238,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.stress5_warm.by_depth.1.n,415,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.stress5_warm.by_depth.2.mean,110.225046,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.stress5_warm.by_depth.2.n,136,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.stress5_warm.by_depth.3.mean,167.84375,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.stress5_warm.by_depth.3.n,6,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.stress5_warm.depth_nonzero.pct,54.394531,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.stress5_warm.lat.mean,56.230554,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.stress5_warm.lat.p99,122.51125,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.stress5_warm.lat.sd,35.264515,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.stress5_warm.lat_gt50.pct,54.492188,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.stress5_warm.n,1024,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.stress5_warm.n_lt10,78,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.stress5_warm.period.mean,50.057562,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+diag.stress5_warm.period.sd,1.888412,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+pre.acf.base_lat.lag19,0.008617,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.acf.base_lat.lag20,0.784689,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.acf.base_lat.lag20_max,0.815495,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.acf.base_lat.lag20_min,0.771915,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.acf.base_lat.lag21,0.012975,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.acf.base_lat.lag40,0.698099,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.acf.base_per.lag1,-0.51607,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.acf.white_noise_band,0.052365,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.baseline.absjit.mean,0.173439,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.baseline.events,13417,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.baseline.lat.mean,13.223863,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.baseline.lat.p95,13.98125,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.baseline.lat.p99,21.09375,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.baseline.lat.sd,1.267963,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.baseline.lat_gt50.pct,0,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.baseline.pair_identity.median.pct,90.5,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.baseline.pair_identity.n_gt90,23,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.baseline.period.mean,50.051228,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.baseline.period.n,13407,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.baseline.period.sd,0.670269,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.baseline.run_n.1,1401,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.cmp.absjit.base_mean,0.175069,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.cmp.absjit.diff,0.70081,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.cmp.absjit.diff_hi,0.752776,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.cmp.absjit.diff_lo,0.64401,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.cmp.absjit.ratio,5.003054,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.cmp.absjit.ratio_hi,5.650379,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.cmp.absjit.ratio_lo,4.284438,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.cmp.absjit.stress_mean,0.875879,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.cmp.gt50.base_mean,0,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.cmp.gt50.diff,0.533206,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.cmp.gt50.diff_hi,0.535104,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.cmp.gt50.diff_lo,0.531361,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.cmp.gt50.stress_mean,0.533206,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.cmp.lat_mean.base_mean,13.223935,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.cmp.lat_mean.diff,40.425712,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.cmp.lat_mean.diff_hi,40.641692,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.cmp.lat_mean.diff_lo,40.208897,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.cmp.lat_mean.ratio,4.057011,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.cmp.lat_mean.ratio_hi,4.073399,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.cmp.lat_mean.ratio_lo,4.040675,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.cmp.lat_mean.stress_mean,53.649647,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.cmp.lat_p99.base_mean,21.0631,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.cmp.lat_p99.diff,92.150413,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.cmp.lat_p99.diff_hi,92.2767,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.cmp.lat_p99.diff_lo,92.05475,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.cmp.lat_p99.ratio,5.374969,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.cmp.lat_p99.ratio_hi,5.401257,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.cmp.lat_p99.ratio_lo,5.358055,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.cmp.lat_p99.stress_mean,113.213513,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.cmp.period_mean.base_mean,50.051218,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.cmp.period_mean.diff,0.000985,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.cmp.period_mean.diff_hi,0.001473,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.cmp.period_mean.diff_lo,0.000458,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.cmp.period_mean.stress_mean,50.052203,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.coldstart.0.after_median,0.9875,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.coldstart.0.n_leading_slow,16,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.coldstart.0.slow_mean,19.99375,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.coldstart_per_line_cycles,190.0625,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.coldstart_per_line_us,1.187891,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.dma_pre.mismatch_max,498,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.dma_pre.mismatch_min,255,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.dma_pre.queue_first,223.71,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.dma_pre.queue_rest.mean,83.333158,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.dma_pre.wall_first,5347.71,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.dma_pre.wall_rest.mean,5210.383684,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.eight.absjit.mean,10.221244,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.eight.events,12048,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.eight.lat.mean,16.347337,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.eight.work.mean,10.967775,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.eight.work.sd,1.896911,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.eight.work_modes.0.frac.pct,93.459495,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.eight.work_modes.0.us,10.575,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.intr16.walls.0,5122.66,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.intr16.walls.1,5123.84,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.linemodel.T0,0.9875,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.linemodel.k,1.187891,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.linemodel.obs.eight,10.575,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.linemodel.obs.sixteen,20.1125,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.linemodel.obs.two,3.38125,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.linemodel.pred.eight,10.490625,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.linemodel.pred.sixteen,19.99375,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.linemodel.pred.two,3.363281,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.n_attempted,110,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.period_mode_cycles,8008,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.period_mode_frac.pct,90.266279,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.poll.polls_min,25057,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.poll.wall.max,5115.7,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.poll.wall.min,5060.8,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.sixteen.absjit.mean,7.940482,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.sixteen.events,12410,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.sixteen.lat.mean,13.1238,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.sixteen.work.mean,23.371219,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.sixteen.work.sd,3.736779,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.sixteen.work_modes.0.frac.pct,54.037067,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.sixteen.work_modes.0.us,20.1125,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.sixteen.work_modes.1.us,27.2875,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.spill.deep.0,2116,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.spill.forced.0,621,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.spill.resident.0,261,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.stress.absjit.mean,0.879178,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.stress.events,13715,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.stress.lat.max,173.71875,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.stress.lat.mean,53.663524,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.stress.lat.p99,113.16875,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.stress.lat.sd,33.237087,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.stress.lat_gt50.pct,53.328472,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.stress.lat_lt10.pct,10.521327,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.stress.next_isr_before_dispatch.pct,53.367384,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.stress.pair_identity.median.pct,4.8,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.stress.pair_identity.n_gt90,7,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.stress.period.mean,50.052201,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.stress.period.n,13705,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.stress.period.sd,1.705769,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.tick.Tisr,50.051218,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.tick.interferer_period_mean,1000.018222,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.tick.interferer_period_sd,0.00863,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.tick.lut_period_us,1001.024356,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.tick.n_estimates,10,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.timer_events,75351,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.two.absjit.mean,1.291037,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.two.events,12020,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.two.lat.mean,13.538817,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.two.work.mean,3.414365,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.two.work.sd,0.455736,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.two.work_modes.0.frac.pct,96.821963,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.two.work_modes.0.us,3.38125,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.warm.absjit.mean,0.173586,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.warm.events,11741,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.warm.lat.mean,13.227746,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.warm.runs,9,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.warm.work.mean,0.998605,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.warm.work.sd,0.26768,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.warm.work_modes.0.frac.pct,97.845158,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.warm.work_modes.0.us,0.9875,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.yieldmodel.drain_gap.n,5985,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.yieldmodel.drain_gap.p50,127.95,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.yieldmodel.drain_size_frac.2.pct,58.265221,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.yieldmodel.drain_size_frac.3.pct,33.878232,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+pre.yieldmodel.pred_lt10.pct,5.172799,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+ri.all.complex_words,1231,readability.json,readability.py,report/ch01-ch11.tex (running prose)
+ri.all.flesch_kincaid_grade,9.252975,readability.json,readability.py,report/ch01-ch11.tex (running prose)
+ri.all.flesch_reading_ease,61.873675,readability.json,readability.py,report/ch01-ch11.tex (running prose)
+ri.all.gunning_fog,12.045879,readability.json,readability.py,report/ch01-ch11.tex (running prose)
+ri.all.sentences,575,readability.json,readability.py,report/ch01-ch11.tex (running prose)
+ri.all.syllables,15948,readability.json,readability.py,report/ch01-ch11.tex (running prose)
+ri.all.syllables_per_word,1.490189,readability.json,readability.py,report/ch01-ch11.tex (running prose)
+ri.all.words,10702,readability.json,readability.py,report/ch01-ch11.tex (running prose)
+ri.all.words_per_sentence,18.612174,readability.json,readability.py,report/ch01-ch11.tex (running prose)
+ri.sec12_words,488,readability.json,readability.py,report/ch01-ch11.tex (running prose)
+x.dac.blocks_equiv,1.525702,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+x.dac.lat_mean_ms,9.764493,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+x.dac.persist_ms,9.66444,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+x.dac.silent_ms,10.4504,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+x.dac.stall_ms,20.00016,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+x.line.revisit16,128,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+x.line.revisit8,256,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+x.overlap.cost16,7.273981,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+x.overlap.cost8,8.622971,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+x.overlap.costwarm,7.68,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+x.overlap.uniform16.pct,40.279613,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+x.overlap.uniform8.pct,21.269491,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+x.period.mode_timer_counts,2002,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+x.period.mode_us,50.05,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+x.poll.n_two_bytes,8,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+x.poll.shortfall_max,59.2,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+x.poll.shortfall_min,4.3,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+x.ratio.s1,4.058082,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+x.ratio.s2,3.977495,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+x.ratio.s3,3.983239,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+x.ratio.s4,4.191911,diag.json,p2_diag.py,"data/raw_diagnostic/diagnostic_serial_12nov (diagnostic firmware, on-chip)"
+x.reg.width_ms.0,1.63388,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+x.reg.width_ms.1,13.22552,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+x.reg.width_ms.2,3.88268,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+x.spi.lines144,121.139061,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+x.spill.deep_excess_per_call,32.359168,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+x.spill.deep_per_call,84.643328,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+x.spill.deep_ratio,8.10728,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+x.spill.forced_minus_resident,360,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+x.spill.forced_minus_resident_us,2.25,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+x.spill.forced_ratio,2.37931,preflight.json,p1_preflight.py,"data/raw_original/preflight_10nov (original firmware, on-chip)"
+x.spill.shallow_per_call,52.28416,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+x.uart.isr_reduction_pct,64.592124,analyzer.json,p3_analyzer.py,data/raw_analyzer/zeroplus_11nov|12nov (logic analyzer)
+xc.max_abs_rel_pct_excl_warm,2.994455,xcheck.json,p4_figdata.py,combination of the three sources (see result file)

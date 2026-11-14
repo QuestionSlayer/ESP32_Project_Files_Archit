@@ -1,0 +1,2 @@
+Idle: measurement stopped; GPTimer/dispatcher parked. Use s for saved data.
+BENCH_ACK

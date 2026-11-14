@@ -1,0 +1,2 @@
+test,repeat,file,rows,retained,cache_mode,stress_priority,accepted,reason
+cache_warm,5,cache_warm_005_serial.txt,1392,1393,0,22,False,incomplete export: 1392 of 1393 rows

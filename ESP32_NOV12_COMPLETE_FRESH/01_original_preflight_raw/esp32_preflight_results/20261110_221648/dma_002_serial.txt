@@ -1,0 +1,13 @@
+Mode: DMA (SPI3 hardware DMA)
+[SPI DMA + loopback] FAIL
+  driver completion  : PASS (queue=0 result=0 callback_count=1)
+  payload comparison : FAIL, mismatched bytes=255/512
+  first mismatch     : offset=0 TX=0x80 RX=0x00 (check GPIO23->GPIO27 jumper)
+  transfer wall time : 5209.54 us (marker GPIO25 to driver callback)
+  queue CPU time     : 85.54 us
+  ISR CPU time       : 3.38 us
+  queue+ISR proxy    : 88.92 us (1.71% of transfer wall, NOT CPU utilization)
+  blocked wait span  : 5146.44 us (elapsed interval, NOT CPU time)
+  task sleeps on FreeRTOS notification; this is NOT proof of a specific CPU-use percentage.
+  RX integrity checked by MOSI-MISO jumper loopback; it does not test a separate SPI slave.
+BENCH_ACK

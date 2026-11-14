@@ -1,0 +1,68 @@
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:4876
+ho 0 tail 12 room 4
+load:0x40078000,len:16532
+load:0x40080400,len:3500
+entry 0x400805b4
+
+--- ESP32 DETERMINISTIC MICROARCH MENU (DPORT Cache Flush + Reg Spill) ---
+[p] Polling: UART1 TX FIFO status polling (intentional busy baseline)
+[i] Interrupt: UART1 TXFIFO-empty IRQ + FreeRTOS blocked wait
+[d] DMA: SPI3 DMA + GPIO23->GPIO27 loopback verification, FreeRTOS blocking
+[r] Register Spill: Xtensa LX6 64-reg window overflow/underflow benchmark
+[!] IRQ burst 8B | [@] 16B | [#] 64B | [$] 120B
+[1] Stress baseline | [2] SRAM stress P5 | [3] P10 | [4] P15 | [5] P22 | [e] P23
+[s] Print period/jitter/dispatch/cache stats | [c] Clear measurements
+[b] Transfer history: wall time and service cost; DMA wait is blocked (std dev)
+[g] Export original CSV | [G] Export original + diagnostic flush/full-callback/ring-depth CSV
+[F] Toggle whole-cache invalidation (default ON; only for controlled comparisons)
+Diagnostic GPIO26: full cache callback / SPI pre_cb / synchronous DAC write.
+[q] Protocol ACK for automated host runner
+[h] Continuous DAC DMA feeder health counters
+[7] Cache 100% target (unverified) (DPORT Flush + 16 words across 16x 32B cache lines)
+[t] Cache 50% target (unverified) (DPORT Flush + 16 words across  8x 32B cache lines)
+[m] Cache 12.5% target (unverified) (DPORT Flush + 16 words across  2x 32B cache lines)
+[u] Cache warm target (unverified) (No Flush + 16 resident words in L1 cache)
+[f] DAC DMA N=256 | [v] N=8 | [w] N=64 | [x] N=1024
+[y] DAC DMA Latency Tradeoff | [z] DAC DMA 20ms Underrun
+[j] Toggle GPIO25 waveform mode | [0] Stop Stress/DMA
+Note: SPI DMA [d] and DAC streaming DMA [f/v/w/x/y/z] are different tests.
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:4876
+ho 0 tail 12 room 4
+load:0x40078000,len:16532
+load:0x40080400,len:3500
+entry 0x400805b4
+
+--- ESP32 DETERMINISTIC MICROARCH MENU (DPORT Cache Flush + Reg Spill) ---
+[p] Polling: UART1 TX FIFO status polling (intentional busy baseline)
+[i] Interrupt: UART1 TXFIFO-empty IRQ + FreeRTOS blocked wait
+[d] DMA: SPI3 DMA + GPIO23->GPIO27 loopback verification, FreeRTOS blocking
+[r] Register Spill: Xtensa LX6 64-reg window overflow/underflow benchmark
+[!] IRQ burst 8B | [@] 16B | [#] 64B | [$] 120B
+[1] Stress baseline | [2] SRAM stress P5 | [3] P10 | [4] P15 | [5] P22 | [e] P23
+[s] Print period/jitter/dispatch/cache stats | [c] Clear measurements
+[b] Transfer history: wall time and service cost; DMA wait is blocked (std dev)
+[g] Export original CSV | [G] Export original + diagnostic flush/full-callback/ring-depth CSV
+[F] Toggle whole-cache invalidation (default ON; only for controlled comparisons)
+Diagnostic GPIO26: full cache callback / SPI pre_cb / synchronous DAC write.
+[q] Protocol ACK for automated host runner
+[h] Continuous DAC DMA feeder health counters
+[7] Cache 100% target (unverified) (DPORT Flush + 16 words across 16x 32B cache lines)
+[t] Cache 50% target (unverified) (DPORT Flush + 16 words across  8x 32B cache lines)
+[m] Cache 12.5% target (unverified) (DPORT Flush + 16 words across  2x 32B cache lines)
+[u] Cache warm target (unverified) (No Flush + 16 resident words in L1 cache)
+[f] DAC DMA N=256 | [v] N=8 | [w] N=64 | [x] N=1024
+[y] DAC DMA Latency Tradeoff | [z] DAC DMA 20ms Underrun
+[j] Toggle GPIO25 waveform mode | [0] Stop Stress/DMA
+Note: SPI DMA [d] and DAC streaming DMA [f/v/w/x/y/z] are different tests.

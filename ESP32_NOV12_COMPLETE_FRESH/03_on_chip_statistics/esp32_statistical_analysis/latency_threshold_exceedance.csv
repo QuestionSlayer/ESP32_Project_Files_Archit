@@ -1,0 +1,7 @@
+mode,n,latency_gt_50us_count,latency_gt_50us_fraction
+cache100,12410,0,0.0
+cache12,12020,0,0.0
+cache50,12048,0,0.0
+cache_warm,11741,0,0.0
+stress1,13417,0,0.0
+stress5,13715,7314,0.5332847247539191

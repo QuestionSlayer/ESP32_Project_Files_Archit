@@ -1,0 +1,137 @@
+{
+ "all": {
+  "complex_words": 1231,
+  "flesch_kincaid_grade": 9.252975073330465,
+  "flesch_reading_ease": 61.873675248023545,
+  "gunning_fog": 12.045878722384277,
+  "sentences": 575,
+  "syllables": 15948,
+  "syllables_per_word": 1.4901887497663988,
+  "words": 10702,
+  "words_per_sentence": 18.612173913043478
+ },
+ "chapters": {
+  "1": {
+   "complex_words": 165,
+   "flesch_kincaid_grade": 10.374580698835278,
+   "flesch_reading_ease": 56.363562673322264,
+   "gunning_fog": 13.50418191902385,
+   "sentences": 60,
+   "syllables": 1849,
+   "syllables_per_word": 1.538269550748752,
+   "words": 1202,
+   "words_per_sentence": 20.033333333333335
+  },
+  "10": {
+   "complex_words": 71,
+   "flesch_kincaid_grade": 8.907387686219739,
+   "flesch_reading_ease": 61.09029940642458,
+   "gunning_fog": 12.001140595903166,
+   "sentences": 32,
+   "syllables": 817,
+   "syllables_per_word": 1.5214152700186219,
+   "words": 537,
+   "words_per_sentence": 16.78125
+  },
+  "11": {
+   "complex_words": 49,
+   "flesch_kincaid_grade": 9.639740259740261,
+   "flesch_reading_ease": 59.95344155844158,
+   "gunning_fog": 12.303030303030305,
+   "sentences": 22,
+   "syllables": 633,
+   "syllables_per_word": 1.5071428571428571,
+   "words": 420,
+   "words_per_sentence": 19.09090909090909
+  },
+  "2": {
+   "complex_words": 127,
+   "flesch_kincaid_grade": 9.999098506902058,
+   "flesch_reading_ease": 59.22852662221807,
+   "gunning_fog": 13.538135036153632,
+   "sentences": 46,
+   "syllables": 1392,
+   "syllables_per_word": 1.5032397408207343,
+   "words": 926,
+   "words_per_sentence": 20.130434782608695
+  },
+  "3": {
+   "complex_words": 132,
+   "flesch_kincaid_grade": 9.83209826965098,
+   "flesch_reading_ease": 59.22749453729405,
+   "gunning_fog": 12.38235398334613,
+   "sentences": 59,
+   "syllables": 1735,
+   "syllables_per_word": 1.5113240418118468,
+   "words": 1148,
+   "words_per_sentence": 19.45762711864407
+  },
+  "4": {
+   "complex_words": 159,
+   "flesch_kincaid_grade": 9.206954592546857,
+   "flesch_reading_ease": 60.991281434117866,
+   "gunning_fog": 12.03127348074971,
+   "sentences": 73,
+   "syllables": 1975,
+   "syllables_per_word": 1.508785332314744,
+   "words": 1309,
+   "words_per_sentence": 17.931506849315067
+  },
+  "5": {
+   "complex_words": 123,
+   "flesch_kincaid_grade": 7.810105001779693,
+   "flesch_reading_ease": 70.32430816624012,
+   "gunning_fog": 10.438553195816878,
+   "sentences": 82,
+   "syllables": 2019,
+   "syllables_per_word": 1.4030576789437108,
+   "words": 1439,
+   "words_per_sentence": 17.548780487804876
+  },
+  "6": {
+   "complex_words": 50,
+   "flesch_kincaid_grade": 8.725439521800283,
+   "flesch_reading_ease": 67.68242088607596,
+   "gunning_fog": 10.712939521800282,
+   "sentences": 36,
+   "syllables": 1001,
+   "syllables_per_word": 1.4078762306610408,
+   "words": 711,
+   "words_per_sentence": 19.75
+  },
+  "7": {
+   "complex_words": 162,
+   "flesch_kincaid_grade": 8.59113929582426,
+   "flesch_reading_ease": 64.3725359393141,
+   "gunning_fog": 10.91344821738393,
+   "sentences": 94,
+   "syllables": 2407,
+   "syllables_per_word": 1.4757817290006132,
+   "words": 1631,
+   "words_per_sentence": 17.351063829787233
+  },
+  "8": {
+   "complex_words": 56,
+   "flesch_kincaid_grade": 9.154327603640041,
+   "flesch_reading_ease": 62.72961071789689,
+   "gunning_fog": 12.687563195146613,
+   "sentences": 23,
+   "syllables": 636,
+   "syllables_per_word": 1.4790697674418605,
+   "words": 430,
+   "words_per_sentence": 18.695652173913043
+  },
+  "9": {
+   "complex_words": 137,
+   "flesch_kincaid_grade": 10.572890542676504,
+   "flesch_reading_ease": 54.47424273357922,
+   "gunning_fog": 13.682832806462944,
+   "sentences": 48,
+   "syllables": 1484,
+   "syllables_per_word": 1.5637513171759747,
+   "words": 949,
+   "words_per_sentence": 19.770833333333332
+  }
+ },
+ "sec12_words": 488
+}

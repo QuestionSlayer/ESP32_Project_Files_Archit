@@ -1,0 +1,11 @@
+{
+  "test": "dma",
+  "wall_us": 5209.54,
+  "queue_cpu_us": 85.54,
+  "isr_cpu_us": 3.38,
+  "blocked_wait_us": 5146.44,
+  "mismatched_bytes": 255.0,
+  "status_dma": "FAIL",
+  "pass": false,
+  "repeat": 2
+}

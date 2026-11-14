@@ -1,0 +1,4 @@
+channel,gpio,rise_us,fall_us,width_us,capture,per_iteration_us
+A1,A1_GPIO22,195080.6,196715.0,1634.4,regflow_1000x_comp_01,1.6344
+A1,A1_GPIO22,196720.72,209941.36,13220.64,regflow_1000x_comp_01,13.22064
+A1,A1_GPIO22,209947.04,213828.84,3881.8,regflow_1000x_comp_01,3.8818

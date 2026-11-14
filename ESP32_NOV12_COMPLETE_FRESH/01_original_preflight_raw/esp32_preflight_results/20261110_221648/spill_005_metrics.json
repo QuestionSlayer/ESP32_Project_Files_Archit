@@ -1,0 +1,9 @@
+{
+  "test": "spill",
+  "spill_resident_cycles": 261.0,
+  "spill_forced_cycles": 621.0,
+  "spill_deep_cycles": 2116.0,
+  "pass": true,
+  "spill_forced_minus_resident_cycles": 360.0,
+  "repeat": 5
+}

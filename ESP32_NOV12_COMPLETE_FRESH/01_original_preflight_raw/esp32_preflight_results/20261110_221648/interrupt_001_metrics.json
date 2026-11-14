@@ -1,0 +1,9 @@
+{
+  "test": "interrupt",
+  "wall_us": 5123.84,
+  "isr_work_us": 70.91,
+  "interrupt_count": 48.0,
+  "status_interrupt": "done",
+  "pass": true,
+  "repeat": 1
+}

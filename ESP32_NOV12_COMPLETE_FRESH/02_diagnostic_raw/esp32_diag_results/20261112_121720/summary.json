@@ -1,0 +1,306 @@
+[
+  {
+    "test": "cache50_on",
+    "repeat": 1,
+    "status": "PASS",
+    "sample_meta": {
+      "total": "14589",
+      "retained": "1024",
+      "dropped": "0",
+      "cpu_mhz": "160",
+      "nominal_us": "50",
+      "cache_mode": "2",
+      "stress_priority": "5"
+    },
+    "diag_meta": {
+      "cache_mode": "2",
+      "flush_enabled": "1",
+      "retained": "1024"
+    },
+    "stats": {
+      "samples": 1024,
+      "period_us_mean": 50.05767,
+      "period_us_sd": 10.68113,
+      "abs_jitter_us_mean": 9.28124,
+      "abs_jitter_us_sd": 5.27866,
+      "dispatch_latency_us_mean": 17.06025,
+      "dispatch_latency_us_sd": 4.82773,
+      "load_work_us_mean": 10.94063,
+      "load_work_us_sd": 1.68279,
+      "cache_flush_us_mean": 4.23094,
+      "cache_flush_us_sd": 0.38797,
+      "full_callback_us_mean": 16.15884,
+      "full_callback_us_sd": 1.94422,
+      "samples_with_isr_during_load": 37,
+      "samples_with_isr_during_flush": 0,
+      "ring_depth_nonzero": 0,
+      "latency_under_10us": 66
+    }
+  },
+  {
+    "test": "cache100_on",
+    "repeat": 1,
+    "status": "PASS",
+    "sample_meta": {
+      "total": "14783",
+      "retained": "1024",
+      "dropped": "0",
+      "cpu_mhz": "160",
+      "nominal_us": "50",
+      "cache_mode": "3",
+      "stress_priority": "5"
+    },
+    "diag_meta": {
+      "cache_mode": "3",
+      "flush_enabled": "1",
+      "retained": "1024"
+    },
+    "stats": {
+      "samples": 1024,
+      "period_us_mean": 50.06722,
+      "period_us_sd": 8.81076,
+      "abs_jitter_us_mean": 6.46265,
+      "abs_jitter_us_sd": 5.9856,
+      "dispatch_latency_us_mean": 14.05862,
+      "dispatch_latency_us_sd": 5.70914,
+      "load_work_us_mean": 23.30771,
+      "load_work_us_sd": 3.84977,
+      "cache_flush_us_mean": 4.24641,
+      "cache_flush_us_sd": 0.50312,
+      "full_callback_us_mean": 28.63351,
+      "full_callback_us_sd": 3.94216,
+      "samples_with_isr_during_load": 421,
+      "samples_with_isr_during_flush": 0,
+      "ring_depth_nonzero": 0,
+      "latency_under_10us": 280
+    }
+  },
+  {
+    "test": "cache50_off",
+    "repeat": 1,
+    "status": "PASS",
+    "sample_meta": {
+      "total": "14390",
+      "retained": "1024",
+      "dropped": "0",
+      "cpu_mhz": "160",
+      "nominal_us": "50",
+      "cache_mode": "2",
+      "stress_priority": "5"
+    },
+    "diag_meta": {
+      "cache_mode": "2",
+      "flush_enabled": "0",
+      "retained": "1024"
+    },
+    "stats": {
+      "samples": 1024,
+      "period_us_mean": 50.05798,
+      "period_us_sd": 1.65885,
+      "abs_jitter_us_mean": 0.76868,
+      "abs_jitter_us_sd": 1.47096,
+      "dispatch_latency_us_mean": 13.42886,
+      "dispatch_latency_us_sd": 1.25728,
+      "load_work_us_mean": 10.6918,
+      "load_work_us_sd": 0.74703,
+      "cache_flush_us_mean": 0.09406,
+      "cache_flush_us_sd": 0.00321,
+      "full_callback_us_mean": 11.69995,
+      "full_callback_us_sd": 0.74715,
+      "samples_with_isr_during_load": 0,
+      "samples_with_isr_during_flush": 0,
+      "ring_depth_nonzero": 0,
+      "latency_under_10us": 0
+    }
+  },
+  {
+    "test": "cache100_off",
+    "repeat": 1,
+    "status": "PASS",
+    "sample_meta": {
+      "total": "14187",
+      "retained": "1024",
+      "dropped": "0",
+      "cpu_mhz": "160",
+      "nominal_us": "50",
+      "cache_mode": "3",
+      "stress_priority": "5"
+    },
+    "diag_meta": {
+      "cache_mode": "3",
+      "flush_enabled": "0",
+      "retained": "1024"
+    },
+    "stats": {
+      "samples": 1024,
+      "period_us_mean": 50.06122,
+      "period_us_sd": 6.4643,
+      "abs_jitter_us_mean": 5.87232,
+      "abs_jitter_us_sd": 2.69687,
+      "dispatch_latency_us_mean": 13.88713,
+      "dispatch_latency_us_sd": 2.52264,
+      "load_work_us_mean": 20.5744,
+      "load_work_us_sd": 2.10756,
+      "cache_flush_us_mean": 0.09418,
+      "cache_flush_us_sd": 0.0039,
+      "full_callback_us_mean": 21.66655,
+      "full_callback_us_sd": 2.26568,
+      "samples_with_isr_during_load": 34,
+      "samples_with_isr_during_flush": 0,
+      "ring_depth_nonzero": 0,
+      "latency_under_10us": 45
+    }
+  },
+  {
+    "test": "stress1_warm",
+    "repeat": 1,
+    "status": "PASS",
+    "sample_meta": {
+      "total": "14989",
+      "retained": "1024",
+      "dropped": "0",
+      "cpu_mhz": "160",
+      "nominal_us": "50",
+      "cache_mode": "0",
+      "stress_priority": "5"
+    },
+    "diag_meta": {
+      "cache_mode": "0",
+      "flush_enabled": "1",
+      "retained": "1024"
+    },
+    "stats": {
+      "samples": 1024,
+      "period_us_mean": 50.05054,
+      "period_us_sd": 0.77692,
+      "abs_jitter_us_mean": 0.20668,
+      "abs_jitter_us_sd": 0.7506,
+      "dispatch_latency_us_mean": 13.41406,
+      "dispatch_latency_us_sd": 1.26398,
+      "load_work_us_mean": 1.02792,
+      "load_work_us_sd": 0.24232,
+      "cache_flush_us_mean": 0.03149,
+      "cache_flush_us_sd": 0.00232,
+      "full_callback_us_mean": 1.98101,
+      "full_callback_us_sd": 0.34274,
+      "samples_with_isr_during_load": 0,
+      "samples_with_isr_during_flush": 0,
+      "ring_depth_nonzero": 0,
+      "latency_under_10us": 0
+    }
+  },
+  {
+    "test": "stress1_cold",
+    "repeat": 1,
+    "status": "PASS",
+    "sample_meta": {
+      "total": "14184",
+      "retained": "1024",
+      "dropped": "0",
+      "cpu_mhz": "160",
+      "nominal_us": "50",
+      "cache_mode": "3",
+      "stress_priority": "5"
+    },
+    "diag_meta": {
+      "cache_mode": "3",
+      "flush_enabled": "1",
+      "retained": "1024"
+    },
+    "stats": {
+      "samples": 1024,
+      "period_us_mean": 50.06495,
+      "period_us_sd": 8.75645,
+      "abs_jitter_us_mean": 6.395,
+      "abs_jitter_us_sd": 5.9786,
+      "dispatch_latency_us_mean": 14.17695,
+      "dispatch_latency_us_sd": 5.83811,
+      "load_work_us_mean": 23.28832,
+      "load_work_us_sd": 3.83919,
+      "cache_flush_us_mean": 4.25759,
+      "cache_flush_us_sd": 0.56653,
+      "full_callback_us_mean": 28.67317,
+      "full_callback_us_sd": 3.95134,
+      "samples_with_isr_during_load": 412,
+      "samples_with_isr_during_flush": 0,
+      "ring_depth_nonzero": 0,
+      "latency_under_10us": 289
+    }
+  },
+  {
+    "test": "stress5_warm",
+    "repeat": 1,
+    "status": "PASS",
+    "sample_meta": {
+      "total": "14400",
+      "retained": "1024",
+      "dropped": "0",
+      "cpu_mhz": "160",
+      "nominal_us": "50",
+      "cache_mode": "0",
+      "stress_priority": "22"
+    },
+    "diag_meta": {
+      "cache_mode": "0",
+      "flush_enabled": "1",
+      "retained": "1024"
+    },
+    "stats": {
+      "samples": 1024,
+      "period_us_mean": 50.05756,
+      "period_us_sd": 1.88841,
+      "abs_jitter_us_mean": 1.03934,
+      "abs_jitter_us_sd": 1.57738,
+      "dispatch_latency_us_mean": 56.23055,
+      "dispatch_latency_us_sd": 35.26451,
+      "load_work_us_mean": 1.66944,
+      "load_work_us_sd": 5.61805,
+      "cache_flush_us_mean": 0.03895,
+      "cache_flush_us_sd": 0.24278,
+      "full_callback_us_mean": 3.18063,
+      "full_callback_us_sd": 7.87009,
+      "samples_with_isr_during_load": 36,
+      "samples_with_isr_during_flush": 6,
+      "ring_depth_nonzero": 557,
+      "latency_under_10us": 78
+    }
+  },
+  {
+    "test": "stress5_cold",
+    "repeat": 1,
+    "status": "PASS",
+    "sample_meta": {
+      "total": "13996",
+      "retained": "1024",
+      "dropped": "0",
+      "cpu_mhz": "160",
+      "nominal_us": "50",
+      "cache_mode": "3",
+      "stress_priority": "22"
+    },
+    "diag_meta": {
+      "cache_mode": "3",
+      "flush_enabled": "1",
+      "retained": "1024"
+    },
+    "stats": {
+      "samples": 1024,
+      "period_us_mean": 50.06617,
+      "period_us_sd": 4.02361,
+      "abs_jitter_us_mean": 2.02794,
+      "abs_jitter_us_sd": 3.47524,
+      "dispatch_latency_us_mean": 63.56841,
+      "dispatch_latency_us_sd": 42.08453,
+      "load_work_us_mean": 25.4726,
+      "load_work_us_sd": 12.95732,
+      "cache_flush_us_mean": 4.98313,
+      "cache_flush_us_sd": 5.4924,
+      "full_callback_us_mean": 31.9019,
+      "full_callback_us_sd": 14.5197,
+      "samples_with_isr_during_load": 491,
+      "samples_with_isr_during_flush": 78,
+      "ring_depth_nonzero": 600,
+      "latency_under_10us": 90
+    }
+  }
+]

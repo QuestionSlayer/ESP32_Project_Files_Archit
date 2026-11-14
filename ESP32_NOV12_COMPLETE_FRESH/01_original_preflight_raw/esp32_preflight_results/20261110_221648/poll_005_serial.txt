@@ -1,0 +1,7 @@
+Mode: Polling (UART1 TX FIFO status polling)
+[POLL] done
+  wire/transfer time : 5100.9 us (expected ~5120 us)
+  status-register polls : 25268
+  CPU workload       : 5100.95 us busy polling (100% of measured window)
+  CPU usage (this core, while polling): approximately 100%; other-core load not measured
+BENCH_ACK

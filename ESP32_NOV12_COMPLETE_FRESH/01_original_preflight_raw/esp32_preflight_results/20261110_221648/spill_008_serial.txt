@@ -1,0 +1,13 @@
+
+========== XTENSA LX6 HARDWARE REGISTER WINDOW SPILL BENCHMARK ==========
+Architecture: 64 physical 32-bit registers (AR0..AR63), rotating CALL8 windows.
+Capacity    : ~6 nested CALL8 frames before WindowBase collides with WindowStart.
+-------------------------------------------------------------------------
+1. Register-Resident (Depth=4, 0 spills)        :  261 cycles ( 1.631 us) | ~52.2 cyc/call
+2. Shallow + explicit xthal_window_spill    :  621 cycles ( 3.881 us) | delta 360.0 cycles
+3. Deep recursion (Depth=24, possible wraps) : 2116 cycles (13.225 us)
+CAUTION: deep vs shallow is NOT an isolated spill penalty; compiler CALL ABI/disassembly and on-board timings are required.
+Forced xthal_window_spill exercises real hardware, but its explicit invocation is an experimental intervention.
+=========================================================================
+
+BENCH_ACK

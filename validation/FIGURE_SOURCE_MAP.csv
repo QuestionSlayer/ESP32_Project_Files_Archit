@@ -1,0 +1,47 @@
+label,number,page,evidence_tag,source_file,data_files,written_by,raw_source,value_macros
+fig:chain,1.1,3,conceptual,fig_chain.tex,,firmware source (drawn),,0
+fig:memory,2.1,5,conceptual,fig_memory.tex,,firmware source (drawn),,0
+fig:wiring,3.1,7,conceptual,fig_wiring.tex,,firmware source (drawn),,0
+fig:boundary,3.2,9,conceptual,fig_boundary.tex,,firmware source (drawn),,0
+fig:decoder,3.3,11,derived,fig_decoder.tex,xcheck.dat,p4_figdata.py,results of p1-p3 (S1-S4),1
+fig:period,4.1,13,measured,fig_period.tex,period_hist.dat,p1_preflight.py,data/raw_original/preflight_10nov (S1),4
+fig:latency,4.2,14,measured,fig_latency.tex,lat_ecdf_baseline.dat; lat_ecdf_stress.dat,value macros (p9_emit.py),,3
+fig:wavestress,4.3,15,measured,fig_wave_stress.tex,wf_base_a1.dat; wf_base_a2.dat; wf_hs_a1.dat; wf_hs_a2.dat,value macros (p9_emit.py),,2
+fig:depth,4.4,16,measured,fig_depth.tex,depth_cold.dat; depth_warm.dat; drain_gap_hist.dat,p1_preflight.py,data/raw_original/preflight_10nov (S1),5
+fig:tick,4.5,17,measured,fig_tick.tex,tick_run2.dat; tick_run2_all.dat,p1_preflight.py,data/raw_original/preflight_10nov (S1),1
+fig:poll,5.1,19,measured,fig_poll.tex,wf_poll_a3.dat; wf_poll_labels.tex,p3_analyzer.py; p4_figdata.py,"data/raw_analyzer/zeroplus_11nov, zeroplus_12nov (S2, S3); results of p1-p3 (S1-S4)",1
+fig:uartpairs,5.2,20,measured,fig_uart_pairs.tex,wf_uart8_a1.dat; wf_uart8_a2.dat; wf_uart8_a3.dat,value macros (p9_emit.py),,3
+fig:uartsweep,5.3,21,measured,fig_uart_sweep.tex,uart_isr_120.dat; uart_isr_16.dat; uart_isr_64.dat; uart_isr_8.dat; uart_sweep.dat,p3_analyzer.py,"data/raw_analyzer/zeroplus_11nov, zeroplus_12nov (S2, S3)",2
+fig:spi,5.4,22,measured,fig_spi.tex,wf_spi_a0.dat; wf_spi_a1.dat; wf_spi_a2.dat; wf_spi_a7.dat; wf_spiz_a4.dat; wf_spiz_a5.dat; wf_spiz_a6.dat; wf_spiz_a7.dat; wf_spiz_labels.tex,p4_figdata.py,results of p1-p3 (S1-S4),4
+fig:dacarch,6.1,24,conceptual,fig_dac_arch.tex,,firmware source (drawn),,0
+fig:dacfeed,6.2,25,measured,fig_dac_feed.tex,dac_feed_f.dat; dac_feed_v.dat; dac_feed_w.dat; dac_feed_x.dat; dac_feeder.dat,p3_analyzer.py,"data/raw_analyzer/zeroplus_11nov, zeroplus_12nov (S2, S3)",2
+fig:dacbuffer,6.3,26,measured,fig_dac_buffer.tex,wf_daclat_a0.dat; wf_daclat_a1.dat; wf_stall_a0.dat; wf_stall_a1.dat,value macros (p9_emit.py),,5
+fig:patterns,7.1,28,conceptual,fig_patterns.tex,,firmware source (drawn),,0
+fig:work,7.2,30,measured,fig_work.tex,coldstart.dat; work_ecdf_eight.dat; work_ecdf_sixteen.dat; work_ecdf_two.dat; work_ecdf_warm.dat,p1_preflight.py,data/raw_original/preflight_10nov (S1),5
+fig:overlap,7.3,31,measured,fig_overlap.tex,overlap_sixteen.dat; wf_c16_a1.dat; wf_c16_a2.dat,p3_analyzer.py,"data/raw_analyzer/zeroplus_11nov, zeroplus_12nov (S2, S3)",7
+fig:flush,7.4,32,measured,fig_flush.tex,flush_ext.dat; flush_toggle.dat,p2_diag.py; p4_figdata.py,data/raw_diagnostic/diagnostic_serial_12nov (S4); results of p1-p3 (S1-S4),2
+fig:cycle,7.5,33,measured,fig_cycle.tex,cycle_cache50_off.dat; cycle_cache50_on.dat; wf_anat_on_a1.dat; wf_anat_on_a2.dat; wf_anat_on_a3.dat,value macros (p9_emit.py),,4
+fig:window,8.1,35,conceptual,fig_window.tex,,firmware source (drawn),,0
+fig:reg,8.2,36,measured,fig_reg.tex,reg_bars.dat; wf_reg_a1.dat,p3_analyzer.py; p4_figdata.py,"data/raw_analyzer/zeroplus_11nov, zeroplus_12nov (S2, S3); results of p1-p3 (S1-S4)",6
+fig:acf,9.1,39,derived,fig_acf.tex,acf.dat,p1_preflight.py,data/raw_original/preflight_10nov (S1),1
+tab:textbook,1.1,2,conceptual,ch01.tex,,firmware source (drawn),,0
+tab:rq,1.2,3,conceptual,ch01.tex,,firmware source (drawn),,0
+tab:boundary,3.1,10,conceptual,ch03.tex,,firmware source (drawn),,0
+tab:sources,3.2,10,conceptual,ch03.tex,,firmware source (drawn),,3
+tab:valid,3.3,11,derived,ch03.tex,,value macros (p9_emit.py),,7
+tab:sched,4.1,15,measured,ch04.tex,,value macros (p9_emit.py),,56
+tab:carryover,4.2,17,derived,ch04.tex,,value macros (p9_emit.py),,14
+tab:uart,5.1,20,measured,ch05.tex,,value macros (p9_emit.py),,24
+tab:spi,5.2,23,measured,ch05.tex,,value macros (p9_emit.py),,23
+tab:dac,6.1,25,measured,ch06.tex,,value macros (p9_emit.py),,28
+tab:cache,7.1,30,measured,ch07.tex,,value macros (p9_emit.py),,31
+tab:flush,7.2,32,measured,ch07.tex,,value macros (p9_emit.py),,54
+tab:design,9.1,37,conceptual,ch09.tex,,firmware source (drawn),,0
+tab:contrast,9.2,38,derived,ch09.tex,,value macros (p9_emit.py),,34
+tab:cross,10.1,40,derived,ch10.tex,,value macros (p9_emit.py),,7
+tab:tiers,10.2,41,derived,ch10.tex,,value macros (p9_emit.py),,0
+tab:reading,B.1,46,derived,back.tex,,value macros (p9_emit.py),,10
+tab:commands,D.1,49,conceptual,back.tex,,firmware source (drawn),,0
+tab:inventory,F.1,107,measured,back.tex,tab_inventory.tex,p5_tables.py,validation/*.csv,0
+tab:acceptance,F.2,108,measured,back.tex,tab_acceptance.tex,p5_tables.py,validation/*.csv,0
+tab:corrections,F.3,109,derived,back.tex,,value macros (p9_emit.py),,26
